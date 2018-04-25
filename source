@@ -1,0 +1,1800 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>口红【价格、报价】-慢慢买比价网</title>
+    <link rel="stylesheet" href="http://include.manmanbuy.com/css/style.css" type="text/css" />
+    <link rel="stylesheet" href="http://include.manmanbuy.com/css/headfoot.css" type="text/css" />
+    <link rel="stylesheet" href="/images/searchStyleN.css?2017310" type="text/css" />
+    <script type="text/javascript" src="http://include.manmanbuy.com/js/jquery1.8.3.js"></script>
+    <link href="http://include.manmanbuy.com/css/core.css" rel="stylesheet" type="text/css" />
+   
+ <script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?85f48cee3e51cd48eaba80781b243db3";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+<script type="text/javascript">
+ $(function(){
+	 $(".divSXline .a-more a").each(function() {
+		$(this).click(function(){
+			 $(this).parent().parent().find(".hideline").toggle(100, function () {
+				  if($(this).parent().parent().find(".a-more a").text()=="更多↓"){
+					 $(this).parent().parent().find(".a-more a").text("收缩↑");
+				  }
+				  else{
+					 $(this).parent().parent().find(".a-more a").text("更多↓");
+				  }
+			});
+		})
+	});
+})
+</script>
+
+<script>
+        function showImg(url) {
+            var imgid = Math.random(),
+frameid = 'frameimg' + imgid;
+            window['img' + imgid] = '<img style="max-width:200px;width:100%;" id="img" src=\'' + url + '\' /><script>window.onload = function() { parent.document.getElementById(\'' + frameid + '\').height = document.getElementById(\'img\').height+\'px\'; }<' + '/script>';
+            document.write('<iframe id="' + frameid + '" src="javascript:parent[\'img' + imgid + '\'];" frameBorder="0" scrolling="no" width="100%"></iframe>');
+        }
+
+eval(function(p,a,c,k,e,d){e=function(c){return(c<a?"":e(parseInt(c/a)))+((c=c%a)>35?String.fromCharCode(c+29):c.toString(36))};if(!''.replace(/^/,String)){while(c--)d[e(c)]=k[c]||e(c);k=[function(e){return d[e]}];e=function(){return'\\w+'};c=1;};while(c--)if(k[c])p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c]);return p;}('O 2N(1b,b,13,1v){u 3C=4G.4N(b);u 46=2E(3C);$.1L({1g:"4B/4z.1d",1v:"4C",4J:4I,34:"b",3c:{4l:1b,13:13,4i:46,1v:1v},39:O(b){},24:O(47,1v,4E){}})}O 2P(1b,1A,2u,1N,1O,1r,1R,1k,1j,20,13,I,1S,1l,2f){r(1b==\'\'||1N!=1||1R==\'1\'||(1r!=\'0\'&&1r!=\'10\')||3B==\'0\'){37}u 3L="1X://s.26.D/35?30=2V&2U=?&4y=3s&1L=1V&m=2T&2W=2Z["+1k+","+1j+"]&2Y=2X:1&s=0&3d=&3a=2K&36=0&31=1&32=33";u 2z="1X://s.26.D/35?30=2V&2U=?&1L=1V&m=2T&2W=2Z["+1k+","+1j+"]&2Y=2X:1&s=0&3d=&3a=2K&36=0&31=1&32=33";u 38=2z;r(20==\'1\'){38=3L}$.1L({1g:38,1v:\'45\',34:\'3R\',3c:{q:1b},39:O(b){r(b["j.k"]!=1a&&b["j.k"]["l"]!=1a&&b["j.k"]["l"]["o"]!=1a){u 16=1A;r(b["j.k"]["l"]["o"].Q<16){16=b["j.k"]["l"]["o"].Q}r(b["j.k"]["l"]["o"].Q<=8&&20==\'1\'){2P(1b,1A,2u,1N,1O,1r,1R,1k,1j,\'0\',13,I,1S,1l,2f);37}u 1B="";u 1D="";2N(1S,b,13,1);r(x.A("3b").1F.1J(">0</J>3K")>0){r(16>0){r(3N.3O.H.1J("&3P=10")<0){x.A("2k").E.K="R";x.A("2h").E.K="R";x.A("2g").E.K="R";x.A("2j").E.K="1o";x.A("2L").E.K="1o";x.A("3b").1F=\'<a H=\\"N://3U.L.D\\">3M</a> > <a H=\\"N://s.L.D\\">3Z</a>\'}y{x.A("2k").E.K="R";x.A("2h").E.K="R";x.A("2g").E.K="1o";x.A("2j").E.K="1o";x.A("2L").E.K="R";x.A("3b").1F="<a H=\\"N://3U.L.D\\">3M</a> > <a H=\\"N://s.L.D\\">3Z</a>   49<J E=\\"3D: 4a; 2F-4H: 4D;\\">"+16+"</J>3K"}}y{x.A("2k").E.K="1o";x.A("2h").E.K="1o";x.A("2g").E.K="R";x.A("2j").E.K="R";x.A("2L").E.K="R"}}r(16>0&&x.A("2I")!=4M){u 1G=x.A("2I").1F;r(1G.1J("3Q=\\"2r\\"")<0){1G=1G.1H("</42>","");1G=1G+"<43 g=\'4L\'><a H=\'"+13+"\' g=\'2q\'><1C S=\'N://4j.L.D/1y/4K/10.22\' 2Q=\'0\'   2R=\'2M\' /> 2r<J g=\'4v\'>("+16+")</J><4w 1v=\\"4u\\" 2J=\\"4s\\"  4t=\\"3P\\" 3Q=\\"2r\\" 1f= \\"3N.3O.H=\'"+13+"\'\\"></a></43>";x.A("2I").1F=1G+"</42>"}}u 1W=16>b["j.k"]["l"]["o"].Q?(b["j.k"]["l"]["o"].Q>1l?1l:b["j.k"]["l"]["o"].Q):(16>1l?1l:16);u 4F=0;u B=1;4d(u i=0;i<1W;i++){r(b["j.k"]["l"]["o"][i].G!=1a&&b["j.k"]["l"]["o"][i].4e!=1a&&b["j.k"]["l"]["o"][i].1T!=1a&&b["j.k"]["l"]["o"][i].2H!=1a&&b["j.k"]["l"]["o"][i].1Z!=1a){r(1Q(1k)>0&&1Q(b["j.k"]["l"]["o"][i].1T)<1Q(1k)){44}r(1Q(1j)>0&&1Q(b["j.k"]["l"]["o"][i].1T)>1Q(1j)){44}u 2v="N://1P.L.D/1y/3g/4h.22";u P="1X://2S.26.D/2S.3w?2J="+b["j.k"]["l"]["o"][i].G;u 1E="4g";3E{r(b["j.k"]["l"]["o"][i].1z.1x){2v="N://1P.L.D/1y/3g/26.22";P="1X://4x.4A.D/2S.3w?2J="+b["j.k"]["l"]["o"][i].G;1E="2r"}}3F(24){}4r="N://4f.L.D/4c.1d?4b="+b["j.k"]["l"]["o"][i].G+"&1g="+P;u f="";r(1O==\'0\'){u 3A=b["j.k"]["l"]["o"][i].1T;u 48=\'\';u 3j=\'\';u 2G=b["j.k"]["l"]["o"][i].23;r(b["j.k"]["l"]["o"][i].23.1J("4n")>=0){2G="4m<4o>"+b["j.k"]["l"]["o"][i].23}f+=" <c g=\\"1n\\">";f+="<c g=\\"4q\\"><a 1f=\\"1p(\'1q\',"+b["j.k"]["l"]["o"][i].G+",\'1m\')\\" H=\\""+P+"\\" 1e=\\"1\\" 1i-1h=\\""+b["j.k"]["l"]["o"][i].G+"\\" X=\\"17\\"><1C 3v=\\"F.S=\'N://1P.L.D/1y/R.3u\'\\"  S=\\""+b["j.k"]["l"]["o"][i].2H.1H("3y","3x")+"\\" /></a></c>";f+=" <c g=\\"1Z\\">";f+="  <c g=\\"t\\"><a 1f=\\"1p(\'1q\',"+b["j.k"]["l"]["o"][i].G+",\'1m\')\\"  H=\\""+P+"\\" 1e=\\"1\\" 1i-1h=\\""+b["j.k"]["l"]["o"][i].G+"\\"  X=\\"17\\" g=\\"2q\\">"+b["j.k"]["l"]["o"][i].2s+"</a></c>";f+="</c>";f+="<c g=\\"4p\\">";f+="<c g=\\"p 3z\\"><2t>￥</2t><J g=\\"3t\\">"+3A+"</J><J g=\\"29\\"><a H=\\"N://1K.L.D/2e.1d?1g="+2E(P)+"\\" X=\\"17\\"> <1C S=\\"N://1P.L.D/1y/3G.22\\" 2Q=\\"0\\" 1Y=\\"3H\\"></a></J></c>";f+="<c E=\\"1U:3q;\\"><J E=\\"3D:#4k;\\">"+3j+"</J></c>";f+=" </c>";f+=" <c g=\\"5d\\">3i<a 1f=\\"1p(\'1q\',"+b["j.k"]["l"]["o"][i].G+",\'1m\')\\" H=\\""+P+"\\"  1e=\\"1\\" 1i-1h=\\""+b["j.k"]["l"]["o"][i].G+"\\"  X=\\"17\\" g=\\"2q\\">"+b["j.k"]["l"]["o"][i].3k+"</a>3n</c>";f+=" <c g=\\"3s\\">";f+="   <p g=\\"m\\"> <1C S=\\""+2v+"\\" 2R=\\"2M\\" 1Y=\\""+1E+"3f\\" /> <a g=\\"5c\\" H=\\""+P+"\\" 1e=\\"1\\" 1i-1h=\\""+b["j.k"]["l"]["o"][i].G+"\\" X=\\"17\\" g=\\"3h\\">"+1E+"</a></p>";3E{r(b["j.k"]["l"]["o"][i].1z.1x){f+="   <p g=\\"2O\\">"+2G+"</p>"}}3F(24){}f+="   <p g=\\"t\\"></p>";f+=" </c>";f+=" <c g=\\"41\\">";f+="   <c g=\\"5f\\"><a 1f=\\"1p(\'1q\',"+b["j.k"]["l"]["o"][i].G+",\'1m\')\\" H=\\""+P+"\\" 1e=\\"1\\" 1i-1h=\\""+b["j.k"]["l"]["o"][i].G+"\\"  X=\\"17\\" 1Z=\\"5e"+1E+"5b\\">58</a></c>";f+=" </c>";f+=" <c g=\\"28\\"></c>";f+="</c> ";r(I>0){r(I>9&&B==1){$(".W").C(".1n").U(8).V(f);B=2}y{r(I>12&&B==2){$(".W").C(".1n").U(11).V(f);B=3}y{r(I>15&&B==3){$(".W").C(".1n").U(14).V(f);B=4}y{r(I>19&&B==4){$(".W").C(".1n").U(18).V(f);B=5}y{r(I>27&&B==5){$(".W").C(".1n").U(21).V(f);B=6}y{r(I>27&&B==6){$(".W").C(".1n").U(25).V(f);B=7}y{r(b["j.k"]["l"]["o"][i].1z.1x){1B+=f}y{1D+=f}}}}}}}}y{r(b["j.k"]["l"]["o"][i].1z.1x){1B+=f}y{1D+=f}}}r(1O==\'1\'){f+="<c  g=\\"1t\\">";f+="   <c g=\\"57\\"><a 1f=\\"1p(\'1q\',"+b["j.k"]["l"]["o"][i].G+",\'1m\')\\" H=\\""+P+"\\" 1e=\\"1\\" 1i-1h=\\""+b["j.k"]["l"]["o"][i].G+"\\" X=\\"17\\">";f+="      <1C 3v=\\"F.S=\'N://1P.L.D/1y/R.3u\'\\"  S=\\""+b["j.k"]["l"]["o"][i].2H.1H("3y","3x")+"\\" 1Y=\'"+b["j.k"]["l"]["o"][i].2s+"\'>";f+="      </a><J g=\\"5a\\"></J>";f+="   </c>";f+="   <c g=\\"59\\">";f+="      <c g=\'5k\'>";f+="         <c><a 1f=\\"1p(\'1q\',"+b["j.k"]["l"]["o"][i].G+",\'1m\')\\" H=\\""+P+"\\" 1e=\\"1\\" 1i-1h=\\""+b["j.k"]["l"]["o"][i].G+"\\" X=\\"17\\" g=\\"5l\\" 1Z=\\""+b["j.k"]["l"]["o"][i].2s+"\\" >"+b["j.k"]["l"]["o"][i].2s+"</a></c>";f+="      </c>";f+="      <c g=\'5m\'>";f+="         <c g=\'5n 3z\'><2F g=\'5h\'><2t>￥</2t><J g=\\"3t\\">"+b["j.k"]["l"]["o"][i].1T+"</J></2F>";f+=" <J g=\\"29\\"> <a H=\\"N://1K.L.D/2e.1d?1g="+2E(P)+"\\" X=\\"17\\"><1C S=\'N://1P.L.D/1y/3G.22\' 2Q=\'0\' 1Y=\'3H\'></a></J>";f+="      </c>";f+="      <c g=\'5g\'><1C S=\\""+2v+"\\" 2R=\\"2M\\" 1Y=\\""+1E+"3f\\" g=\\"5i\\" /> ";f+="         <a 1f=\\"1p(\'1q\',"+b["j.k"]["l"]["o"][i].G+",\'1m\')\\" H=\\""+P+"\\" 1e=\\"1\\" 1i-1h=\\""+b["j.k"]["l"]["o"][i].G+"\\"  X=\\"17\\"  g=\\"3h\\" 1Z=\\""+b["j.k"]["l"]["o"][i].23+"\\">"+1E+"</a></c>";f+="         <c g=\'28\'></c>";f+="      </c>";f+="      <c g=\'5j\'>";f+="         <c g=\'4U\'>3i<a 1f=\\"1p(\'1q\',"+b["j.k"]["l"]["o"][i].G+",\'1m\')\\" H=\\""+P+"\\"  1e=\\"1\\" 1i-1h=\\""+b["j.k"]["l"]["o"][i].G+"\\"  X=\\"17\\" g=\\"2q\\">"+b["j.k"]["l"]["o"][i].3k+"</a>3n</c>";r(b["j.k"]["l"]["o"][i].1z.1x){f+="         <c g=\'3m 2O\'>"+b["j.k"]["l"]["o"][i].23+"</c>"}y{f+="         <c g=\'3m 2O\'>"+b["j.k"]["l"]["o"][i].4T+"</c>"}f+="         <c g=\\"4W\\"><a v=\\"4V&T=0&1g="+4S(P)+"\\" g=\\"4O\\" H=\\"#4R\\">4Q</a></c>";f+="         <c g=\'28\'></c>";f+="      </c>";f+="      <c g=\\"41\\"><c g=\\"4X 54\\"><J></J></c><c g=\\"53 56\\"></c><c g=\\"28\\"></c></c>";f+="   </c>";f+="</c>";r(I>0){r(I>9&&B==1){$(".W").C(".1t").U(8).V(f);B=2}y{r(I>12&&B==2){$(".W").C(".1t").U(11).V(f);B=3}y{r(I>15&&B==3){$(".W").C(".1t").U(14).V(f);B=4}y{r(I>19&&B==4){$(".W").C(".1t").U(18).V(f);B=5}y{r(I>27&&B==5){$(".W").C(".1t").U(21).V(f);B=6}y{r(I>27&&B==6){$(".W").C(".1t").U(25).V(f);B=7}y{r(b["j.k"]["l"]["o"][i].1z.1x){1B+=f}y{1D+=f}}}}}}}}y{r(b["j.k"]["l"]["o"][i].1z.1x){1B+=f}y{1D+=f}}}}y{1W++;r(1W>b["j.k"]["l"]["o"].Q){1W=b["j.k"]["l"]["o"].Q}}}r(I>0||(I<=0&&2f<5)){x.A("50").1F=1B+1D}y{x.A("51").1F=1B+1D}}y{r(20==\'1\'){2P(1b,1A,2u,1N,1O,1r,1R,1k,1j,\'0\',13,I,1S,1l,2f)}y{x.A("2k").E.K="1o";x.A("2h").E.K="1o";x.A("2g").E.K="R";x.A("2j").E.K="R"}}$(\'.1n\').3S(O(1u){$(F).C(\'.29\').3T(O(){$(F).3V().1I(\'z-1u\',\'1\');$(F).1I(\'z-1u\',\'1\');r($(F).C(\'.Y-Z\').Q<=0){u 1c=$(F).C("a").3W("H");r(1c.1J("1K.L.D")>-1){u 2d=40(3X(1c,"1g"));u 1M=d.3Y(2d,2,1V);$(F).2c(\'<c g="Y-Z"><i g="M M-2b"><i g="M-2a"></i><i g="M-2B"></i></i><1s S="\'+1c.1H("2e.1d","2A.1d")+\'&1M=\'+1M+\'&w=2x&h=2y&m=1&e=2&2D=0" 2C="0" 2w="0" 2o="1w" 2p="1w" 1U="2n" 2l="2m" ></1s></c>\')}y{u 2i=/T=(\\d+)/3I;u T=1c.3J(2i)[0].1H("T=","");r(T.Q!="0"){$(F).2c(\'<c g="Y-Z"><i g="M M-2b"><i g="M-2a"></i><i g="M-2B"></i></i><1s S="N://1K.L.D/2A.1d?w=2x&h=2y&m=1&e=2&T=\'+T+\'&2D=0" 2C="0" 2w="0" 2o="1w" 2p="1w" 1U="2n" 2l="2m"></1s></c>\')}}}$(F).C(\'.Y-Z\').3p()},O(){$(F).3V().1I(\'z-1u\',\'0\');$(F).1I(\'z-1u\',\'0\');$(F).C(\'.Y-Z\').3e()})});$(\'.1t\').3S(O(1u){$(F).C(\'.29\').3T(O(){r($(F).C(\'.Y-Z\').Q<=0){u 1c=$(F).C("a").3W("H");r(1c.1J("1K.L.D")>-1){u 2d=40(3X(1c,"1g"));u 1M=d.3Y(2d,2,1V);$(F).2c(\'<c g="Y-Z"><i g="M M-2b"><i g="M-2a"></i><i g="M-2B"></i></i><1s S="\'+1c.1H("2e.1d","2A.1d")+\'&1M=\'+1M+\'&w=2x&h=2y&m=1&e=2&2D=0" 2C="0" 2w="0" 2o="1w" 2p="1w" 1U="2n" 2l="2m"></1s></c>\')}y{u 2i=/T=(\\d+)/3I;u T=1c.3J(2i)[0].1H("T=","");r(T.Q!="0"){$(F).2c(\'<c g="Y-Z"><i g="M M-2b"><i g="M-2a"></i><i g="M-2B"></i></i><1s S="N://1K.L.D/2A.1d?w=2x&h=2y&m=1&e=2&T=\'+T+\'&2D=0" 2C="0" 2w="0" 2o="1w" 2p="1w" 1U="2n" 2l="2m"></1s></c>\')}}}r((1u+1)%4==0&&1u!=0){$(F).C(\'.M\').1I({\'3l\':\'4Y\',\'3r\':\'3o\'});$(F).C(\'.Y-Z\').1I({\'3l\':\'-3q\',\'3r\':\'3o\'})}$(F).C(\'.Y-Z\').3p()},O(){$(F).C(\'.Y-Z\').3e()})})},24:O(4Z,52,55){}})}O 4P(1b,1A,2u,1N,1O,1r,1R,1k,1j,20,13,I,1S,1l){r(1b==\'\'||1N!=1||1R==\'1\'||(1r!=\'0\'&&1r!=\'10\')||3B==\'0\'){37}u 2z="1X://s.26.D/35?30=2V&2U=?&1L=1V&m=2T&2W=2Z["+1k+","+1j+"]&2Y=2X:1&s=0&3d=&3a=2K&36=0&31=1&32=33";$.1L({1g:2z,1v:\'45\',34:"3R",3c:{q:1b,n:1A},39:O(b){r(b["j.k"]!=1a&&b["j.k"]["l"]!=1a&&b["j.k"]["l"]["o"]!=1a){u 16=1A;r(b["j.k"]["l"]["o"].Q>0){2N(1S,b,13,2)}}},24:O(b){}})}',62,334,'|||||||||||json|div|||html|class|||API|CustomizedApi|itemlist|||auctions|||if|||var|||document|else||getElementById|vInsertFlag|find|com|style|this|nid|href|varresultcount|span|display|manmanbuy|angle|http|function|tburl|length|none|src|bjid|eq|before|div1100|target|panel|popup||||taobaourl|||len|_0|||undefined|keyword|prohref|aspx|isconvert|onclick|url|itemid|biz|pricemax|pricemin|showcount|huadong677|bjlineSmall|block|insertShenQingGY|tb_ajax|site|iframe|bjlineBig|index|type|no|isTmall|images|shopcard|itop|vTM|img|vTB|vSiteName|innerHTML|vTaoBaoUrl|replace|css|indexOf|tool|ajax|token|pNumber|showModel|misc|parseFloat|iszy|taobaokeywordold|view_price|width|true|vLen|https|alt|title|searchModel||png|nick|error||taobao||clear|poptrend|outer|up|append|newurl|historyLowest|varsrcount|diserror_fortb|diserror_dis_notb|reg|diserror_dis_fortb|diserror_notb|height|170|340|frameborder|scrolling|f12sc|天猫商城|raw_title|em|avg|mallsrc|marginheight|350|160|vUrlTB|history|inner|marginwidth|sp|escape|font|vSallerShow|pic_url|divSite|id|staobaoz_20171228|diserror_fornotb|absmiddle|PostDataBack|AreaZY|getSearchxsc|border|align|item|customized|callback|1514423500718_224|filter|search_radio_all|stats_click|reserve_price|_1|js|ie|utf|dataType|api|bcoffset|return|vUrl|success|initiative_id|resultcomment|data|imgfile|hide|的报价|hzweb|f14proname|有|vYouhui|comment_count|right|divcommentBigNew|人评论|auto|show|120px|left|mall|listpricespan|gif|onerror|htm|160x160|60x60|AreaPrice|vPrice|flag|vD|color|try|catch|trendx2|点击查看该商品的走势图|gi|match|件|vUrlTM|比价网|window|location|siteid|value|jsonp|each|hover|www|parent|attr|getQueryString|encrypt|购物搜索|unescape|other|ul|li|continue|get|vDNew|xhr|vDis|共找到相关商品|Red|num|redirectTaobao|for|detail_url|list|淘宝|taobaosmall|jsondata|sf|FF5600|searchkey|自营|天猫超市|br|cost|pic|tourl|s_10|name|checkbox|fcount|input|detail|tab|SearchBooksAjax|tmall|BooksService|POST|bold|exception|vInsertCount|JSON|weight|5000|timeout|sitelogo|divSXblock|null|stringify|iframefav|getSearchxsc2|收藏|iframemain|decodeURI|item_loc|divlogoBigNew|favPrice|addfav|stock|132px|XMLHttpRequest|showTB|showTBBefore|textStatus|activity|fl|errorThrown|fr|proPickuanBig|去购买|proPickuanBigdown|imgmid|购买|shenqingGY|comment|去|btngo|divpriceBigzydq|pricewordBig|imgbigpic|siteAndCommentNew|divtitleBigNew|f14scBig|divpriceBigNew|divpriceBigPricex'.split('|'),0,{}))
+
+
+  var pNumber = "2";
+        var pAvg = "$pavg$";
+        var showModel = "0";
+        var keyword = "口红";
+        var searchModel = "0";
+        var iszy = "0";
+        var site = "0";
+        var pricemin = "0";
+        var pricemax = "0";
+        var varresultcount ="0";
+        var varsrcount = "45621";
+        var flag = "0";
+        var taobaourl="Default.aspx?smallclass=0&ppid=0&siteid=10&searchmode=0&f1=0&f2=0&f3=0&f4=0&f5=0&f6=0&price1=0&price2=0&orderby=score&iszy=0&istmall=0&zdj=0&key=%bf%da%ba%ec&v=&k=&min=&max=&w=&w2=&ft=&ft2=&distype=0";
+        var taobaokeywordold="";
+        var searchcount="56";
+        var showcount="8";
+       getSearchxsc(keyword,searchcount,0,pNumber,showModel,site,iszy,pricemin,pricemax,searchModel,taobaourl,varresultcount,taobaokeywordold,showcount,varsrcount);
+       getSearchxsc2(keyword,searchcount,0,pNumber,showModel,site,iszy,pricemin,pricemax,searchModel,taobaourl,varresultcount,taobaokeywordold,showcount);
+
+    </script>
+    <script type="text/javascript" src="/JS/TSign.js"></script>
+</head>
+<body style="margin: 0px;"><div align="center"><style type="text/css">
+span.my-mmb a:hover,span.my-helper a:hover,span.mmb-app a:hover{TEXT-DECORATION: underline;Color: #ee7000;}
+.top-right .mmb-app a,.top-right .mmb-app .qrcode .qr-img,.top-right .mmb-app .qrcode .qr-btn a{ background:url(http://www.zuyushop.com/newindexpic/m.m.c/nav_app_icon.gif) no-repeat;}
+.top-right .mmb-app{ margin-right:0px; padding:0px;display: inline-block;padding: 0;position: relative;z-index: 2;vertical-align: middle;}
+.top-right .mmb-app a{ display:inline-block; padding-left:16px; background-position:-128px 2px;z-index:6;*top:31px;_top:30px;}
+.top-right .mmb-app .qr-tit{ display:inline-block;padding: 0 20px 0 5px;color: #555;background: url(http://misc.manmanbuy.com/images/cart/arrow.gif) right 10px no-repeat;border-bottom: none;float: left; height:27px; line-height:27px;}
+.top-right .mmb-app .qrcode{ background:#FFFFFF; border:1px solid #dcdcdc; padding:10px; width:230px; display:none; position:absolute;  left:0; top:30px;margin-top:-5px;}
+.top-right .mmb-app .line{height:1px; width:99px; background:#fff; line-height:0; font-size:0; position:absolute;top:25px;*top:25px;left:1px;_top:25px;z-index:7;display:none; }
+.top-right .mmb-app .qrcode p{ color:#999999;margin: 0px;}
+.top-right .mmb-app .qrcode p b{ color:#5a5a5a;}
+.top-right .mmb-app .qrcode .qr{ margin-top:4px; height:110px;}
+.top-right .mmb-app .qrcode .qr-img{ width:106px; height:106px; background-position:0 0;float: left; margin-right:10px;}
+.top-right .mmb-app .qrcode .qr-btn{ padding-left:116px;}
+.top-right .mmb-app .qrcode .qr-btn a.a-iphone,.top-right .mmb-app .qrcode .qr-btn a.a-android{ display:block; width:104px; height:28px; padding:0px; margin:10px 0px;}
+.top-right .mmb-app .qrcode .qr-btn a.a-iphone{background-position:0px -122px;}
+.top-right .mmb-app .qrcode .qr-btn a.a-android{ background-position:0px -157px;}
+.top-right span.spanjj{padding:0px;font-size: 9px;color: #dddddd;}
+.top-right a.pt{margin-left:10px;}
+span.my-mmb,span.my-helper{display:inline-block; padding:0; position:relative; z-index:2; vertical-align:middle; height:27px; line-height:27px;}
+span.my-mmb div,span.my-helper div{ color:#555; padding:0 20px 0 10px;background:url(http://misc.manmanbuy.com/images/cart/arrow.gif) right 10px no-repeat; display:inline-block; border-bottom:none;float:left; }
+span.my-mmb:hover,span.my-helper:hover{cursor:pointer;}
+span.my-mmb dl,span.my-helper dl{ position:absolute; background:#fff; border:1px solid #DCDCDC;display:none;padding:1px 0px 3px 0px;line-height:24px; right:0; top:30px; margin-top:-5px;z-index:6;*top:31px;_top:30px;}
+span.my-mmb dl dd,span.my-helper dl dd{ padding:0px 9px 0px 9px; height:25px;line-height:25px;margin:0px;}
+span.my-mmb dl a,span.my-helper dl a{ font-weight:normal; line-height:22px; white-space:nowrap;}
+span.my-mmb .line{ height:1px; background:#fff; line-height:0; font-size:0; position:absolute; top:25px;*top:26px;_top:25px;right:1px;z-index:7; display:none;}
+span.my-helper .line{ height:1px; width:100px; background:#fff; line-height:0; font-size:0; position:absolute;top:25px;*top:26px;right:1px;_top:25px;z-index:7;display:none; }
+.proFl .title span{ font-size:14px !important; font-weight:normal !important;}
+#menutemai{ position:relative;}
+#menutemai img.icon-new{ position:absolute; top: 9px;left: 74px;}
+#menucuxiao{ margin-left:7px;}
+#menutemai{ margin-left:15px;}
+#menubaicai{ margin-left:15px;}
+#menufanli{ margin-left:20px;}
+#menucomment{ margin-left:14px;}
+.menudiv3{ width:110px;padding-top: 0px;height: 39px; line-height:39px;}
+A.menu:link, A.menu:active, A.menu:visited{ font-family:"Microsoft YaHei"; font-weight:normal; font-size:15px;}
+#menupinpai a,#menujifen a{font-family:"Microsoft YaHei"; font-weipight:normal; font-size:15px;}
+
+</style>
+
+
+<!--新的搜索-->
+<style type="text/css">
+.head-search{float:right; padding: 15px 0px 8px 0px;width: 620px; text-align: left; *padding-top: 20px; *position:relative; *z-index:1;}
+.head-search .tabs{ height: 25px; }
+.head-search .tabs ul li{float: left; width: 50px; height: 25px;}
+.head-search .tabs ul li a{ display:block; color: #F40; text-align: center; line-height: 25px;}
+.head-search .tabs ul li a:hover{text-decoration: none; background-color: #FFEEE5;}
+.head-search .tabs ul li.on a{ color: #ffffff; background-color: #ff6600;}
+.head-search .panel{ background-color: #ff6600; padding: 2px 0 2px 2px; height: 34px; position: relative;*padding: 1px 0 2px 2px;}
+.head-search .panel form{}
+.head-search .panel .sInput{ width: 535px; position: relative;}
+.head-search .panel .sInput label{line-height: 22px; position: absolute; top: 6px; left: 11px; color: #a9a9a9; height: 0px; cursor: text;touch-action: none; -ms-touch-action: none; pointer-events: none; -ms-pointer-events: none; -webkit-user-select: none; font-family: 'Microsoft Yahei';}
+.head-search .panel .sInput input.skey{border: none; padding: 6px 0;text-indent: 10px;height: 22px;line-height: 22px;width: 530px;outline: 0;background: #ffffff;-webkit-appearance: none;display:block;*height:21px; font-family: 'Microsoft Yahei';color: #5a5a5a;font-size: 12px;}
+.head-search .panel .sBtn{ position: absolute; top: 0px; right: 0px; width: 85px; height: 38px; overflow: hidden; text-align: center;*height:37px;}
+.head-search .panel .sBtn input.btnSearch{font-size: 18px; font-weight: 700; color: #ffffff; background-color: #ff6600; cursor: pointer; height: 100%; border: none; width: 100%; outline: 0;-webkit-appearance: none; *line-height:34px;}
+.head-search .tags{margin-top: 2px;color: #666;line-height:22px;}
+.head-search .tags span{ color: #666;}
+.head-search .tags a{ margin-right: 1px; color: #666;}
+.head-search .tags a:hover{color: #f85000; text-decoration: none;}
+.head-search .tags a.hot{color: #f85000;}
+.head-search-bijia .tags-zhekou,.head-search-zhekou .tags-bijia{ display: none;}
+.head-search-bijia .tags-bijia,.head-search-zhekou .tags-zekou{ display: block;}
+.head-search-bijia ul li.tab-bijia a,
+.head-search-zhekou ul li.tab-zhekou a{ color: #ffffff;background-color: #ff6600 !important;}
+</style>
+
+<script type="text/javascript">
+$(function () {
+    ;(function ($) {
+        $.searchHolder=function(searchTip) {
+            $.event.special.valuechange = {
+                teardown: function (namespaces) {
+                    $(this).unbind('.valuechange');
+                },
+                handler: function (e) {
+                    $.event.special.valuechange.triggerChanged($(this));
+                },
+                add: function (obj) {
+                    $(this).on('keyup.valuechange cut.valuechange paste.valuechange input.valuechange', obj.selector, $.event.special.valuechange.handler)
+                },
+                triggerChanged: function (element) {
+                    var current = element[0].contentEditable === 'true' ? element.html() : element.val(),
+                        previous = typeof element.data('previous') === 'undefined' ? element[0].defaultValue : element.data('previous')
+                    if (current !== previous) {
+                        element.trigger('valuechange', [element.data('previous')])
+                        element.data('previous', current)
+                    }
+                }
+            }
+            $('.head-search .panel .sInput .skey').on('valuechange', function (e, previous) {
+                if ($(this).val() != '' && $(this).val()) {
+                    $('.head-search .panel .sInput label').text('');
+                } else {
+                    $('.head-search .panel .sInput label').text(searchTip);
+                }
+            });
+            if ($('.head-search .panel .sInput .skey').val() != '') {
+                return;
+            } else {
+                $('.head-search .panel .sInput label').text(searchTip);
+            }
+        }
+    })(jQuery);
+
+    $.searchHolder($('.head-search .panel form .skey').attr('data-bijia'));
+    $('.head-search .tabs ul li').each(function (eq) {
+        $(this).click(function () {
+            $('.head-search .panel form').removeAttr('action');
+            if (eq == 0) {
+                $('.head-search .panel form').attr('action', 'http://s.manmanbuy.com/Default.aspx');
+                $.searchHolder($('.head-search .panel form .skey').attr('data-bijia'));
+                $('.head-search').removeClass('head-search-zhekou').addClass('head-search-bijia');
+            } else {
+                $('.head-search .panel form').attr('action', 'http://zhekou.manmanbuy.com/searchnew.aspx');
+                $.searchHolder($('.head-search .panel form .skey').attr('data-zekou'));
+                $('.head-search').removeClass('head-search-bijia').addClass('head-search-zhekou');
+            }
+        });
+    });
+    $(".panel form").submit(function (e) {
+if ($('.head-search .panel .sInput .skey').val()==''){
+        if ($('.head-search').hasClass('head-search-bijia')) {
+            $('.head-search .panel .sInput .skey').val($('.head-search .panel form .skey').attr('data-bijia'));
+        } }
+        return true;
+    });
+})
+</script>
+
+
+
+<script type="text/javascript">
+
+$(document).ready(function() {
+
+
+	$("span.my-mmb").hover(function() {
+		$(this).find("p.line").width(88).show();
+		$(this).find("dl").width(88).show();
+		$(this).css("background","#fff url(http://misc.manmanbuy.com/images/cart/arrowL.gif) left  -4px no-repeat");
+		$(this).find('div').css("background","url(http://misc.manmanbuy.com/images/cart/arrowR.gif) right  -4px no-repeat");
+	}, function() {
+		$(this).find("p.line").hide();
+		$(this).find("dl").hide();
+		$(this).css("background","none");
+		$(this).find('div').css("background","url(http://misc.manmanbuy.com/images/cart/arrow.gif) right 10px no-repeat");
+	});
+	$("span.my-helper").hover(function() {
+		$(this).find("p.line").width(100).show();
+		$(this).find("dl").width(100).show();
+		$(this).css("background","#fff url(http://misc.manmanbuy.com/images/cart/arrowL.gif) left  -4px no-repeat");
+		$(this).find('div').css("background","url(http://misc.manmanbuy.com/images/cart/arrowR.gif) right  -4px no-repeat");
+	}, function() {
+		$(this).find("p.line").hide();
+		$(this).find("dl").hide();
+		$(this).css("background","none");
+		$(this).find('div').css("background","url(http://misc.manmanbuy.com/images/cart/arrow.gif) right 10px no-repeat");
+	});
+$("span.mmb-app").hover(function() {
+	$(this).find("p.line").show();
+	$(this).find(".qrcode").show();
+	$(this).css("background","#fff url(http://misc.manmanbuy.com/images/cart/arrowL.gif) left  -4px no-repeat");
+	$(this).find('div.qr-tit').css("background","url(http://misc.manmanbuy.com/images/cart/arrowR.gif) right  -4px no-repeat");
+}, function() {
+	$(this).find("p.line").hide();
+	$(this).find(".qrcode").hide();
+	$(this).css("background","none");
+	$(this).find('div.qr-tit').css("background","url(http://misc.manmanbuy.com/images/cart/arrow.gif) right 10px no-repeat");
+});
+
+});
+</script>
+
+
+<div style="width: 100%; height: 27px;line-height: 27px; border-bottom: solid 1px #DCDCDC; background-color:#fbfbfb;"             align="center">
+
+<div style="width: 994px; text-align: left;">
+<div style="float: left; width:360px;">
+<div >欢迎来到慢慢买！<a href="http://home.manmanbuy.com/login.aspx?tourl=http%3a%2f%2fs.manmanbuy.com%2fDefault.aspx%3fPageID%3d2%26smallclass%3d0%26ppid%3d0%26siteid%3d%26searchmode%3d0%26f1%3d0%26f2%3d0%26f3%3d0%26f4%3d0%26f5%3d0%26f6%3d0%26price1%3d0%26price2%3d0%26orderby%3dscore%26iszy%3d0%26istmall%3d0%26zdj%3d0%26key%3d%25bf%25da%25ba%25ec%26v%3d%26k%3d%26min%3d%26max%3d%26w%3d%26w2%3d%26ft%3d%26ft2%3d%26distype%3d0" class="pt">请登录</a> &nbsp;   <a href="http://home.manmanbuy.com/reg.aspx" class="pt">免费注册</a></div></div>
+<div style="float: right;color: #666;">
+<div class="top-right">
+	<span class="mmb-app">
+	<div class="qr-tit"><a href="http://home.manmanbuy.com/app.aspx">手机慢慢买</a></div>
+	<p class="line"></p>
+	<div class="qrcode">
+	  <p>扫描二维码下载客户端</p>
+	  <div class="qr">
+		<div class="qr-img"></div>
+		<div class="qr-txt">
+		  <p><b>慢慢买客户端</b></p>
+		  <div class="qr-btn"> <a href="https://itunes.apple.com/cn/app/man-man-mai-bi-jia-wang-rang/id933106331?l=en&mt=8" target="_blank" class="a-iphone" title="iPhone版下载"></a> <a href="http://sj.qq.com/myapp/detail.htm?apkName=com.manmanbuy.bijia" class="a-android" title="Android版下载"></a> </div>
+		</div>
+	  </div>
+	</div>
+</span>
+	<span class="spanjj">|</span>	
+	<span class="my-mmb"><div><a href="http://home.manmanbuy.com/userCenter.aspx">我的慢慢买</a></div>
+	<p class="line"></p>
+		<dl>
+<dd><a href="http://home.manmanbuy.com/fac.aspx">我的收藏</a></dd>
+<dd><a href="http://home.manmanbuy.com/jifenHistory.aspx">我的积分</a></dd>
+		</dl>
+	</span>
+	<span class="spanjj">|</span>	
+	<span class="my-helper"><div><a href="http://tool.manmanbuy.com/">购物助手</a></div>
+	<p class="line"></p>
+		<dl>
+<dd><a href="http://tool2.manmanbuy.com/PriceLessSort.aspx">神价监控</a></dd>
+			<dd><a href="http://tool.manmanbuy.com/HistoryLowest.aspx">历史价格查询</a></dd>
+<dd><a href="http://tool2.manmanbuy.com/coudan.aspx">1元凑单商品</a></dd>
+			<dd><a href="http://baicai.manmanbuy.com/">淘宝优惠券</a></dd>
+<dd><a href="http://help.manmanbuy.com/default.aspx?id=44069">更多>></a></dd>
+
+		</dl>
+	</span>
+	<span class="spanjj">|</span><a href="http://help.manmanbuy.com/default.aspx?id=44069" target="_blank"  class="pt">新手帮助</a>
+</div>
+</div>
+</div></div>
+<!--headend--><div class="clear"></div>
+
+
+
+<div style="width: 100%;background-color:#fff;height:115px;">
+<div style="width: 1000px; margin: 0px auto; text-align: center;"><div style="width: 994px; margin:0px; height:100px;"><div style="float: left; width: 170px; text-align: left;margin-top:20px;"><a href="http://www.manmanbuy.com/"><img src="http://misc.manmanbuy.com/images/logo.png" alt="慢慢买比价网――理性消费倡导者" border="0" /></a></div>
+<div style="float: left; width: 170px; text-align: left;margin-top: 46px;margin-left:8px; line-height:26px;"><a href="http://help.manmanbuy.com/default.aspx?id=44069" target="_blank" style="font-size:20px;color:#999;TEXT-DECORATION: none;">全网比价   <span style="font-size:14px;">&#8226;</span>   折扣</a></div>
+
+
+
+<div class="head-search head-search-bijia">
+	<div class="tabs">
+		<ul>
+			<li class="tab-bijia"><a href="javascript:;">比价</a></li>
+			<li class="tab-zhekou"><a href="javascript:;">折扣</a></li>
+		</ul>
+	</div>
+	<div class="panel">
+		<form action="http://s.manmanbuy.com/Default.aspx" method="get">
+			<div class="sInput"><label for="skey"></label><input type="text" name="key" id="skey" class="skey" value="口红" autocomplete="off" data-bijia="请输入您想比较的商品名称或型号" data-zekou="请输入您想找的商品折扣"></div>
+			<div class="sBtn"><input type="submit" value="搜索" name="btnSearch" class="btnSearch"></div>
+		</form>
+	</div>
+	<div class="tags tags-bijia">热门比价：
+<a href="/default.aspx?key=iphone+X&hot=1" class="f12hui">iphone X</a>  &nbsp;
+<a href="/default.aspx?key=%D0%A1%C3%D7mix2s&hot=1" class="f12hui">小米mix2s</a>  &nbsp;
+<a href="/default.aspx?key=iphone+8&hot=1" class="f12hui">iphone 8</a>  &nbsp;
+<a href="/default.aspx?key=%CE%F7%C3%C5%D7%D3%B1%F9%CF%E4&hot=1" class="f12hui">西门子冰箱</a>  &nbsp;
+<a href="/Default.aspx?key=%B8%F1%C1%A6%BF%D5%B5%F7&hot=1" class="f12hui">格力空调</a> &nbsp;
+<a href="/default.aspx?key=%B5%E7%B7%E7%C9%C8&hot=1" class="f12hui">电风扇</a>  &nbsp;
+<a href="/default.aspx?key=%CC%EA%C3%AB%C6%F7&hot=1" class="f12hui">剃毛器</a>  &nbsp;
+<a href="/default.aspx?key=%C7%FD%CE%C3%B5%C6&hot=1" class="f12hui">驱蚊灯</a>  &nbsp;
+<a href='http://book.manmanbuy.com' target='_blank' class="f12hui">搜图书</a>
+
+
+
+
+
+
+	</div>
+    <div class="tags tags-zhekou">
+        热门搜索：
+<a href="http://zhekou.manmanbuy.com/searchnew.aspx?key=电风扇&hot=1" class="f12hui">电风扇</a>  &nbsp;
+<a href="http://zhekou.manmanbuy.com/searchnew.aspx?key=小米手机&hot=1" class="f12hui">小米手机</a> &nbsp;
+<a href="http://zhekou.manmanbuy.com/searchnew.aspx?key=iphone&hot=1" class="f12hui">iphone</a> &nbsp;
+<a href="http://zhekou.manmanbuy.com/searchnew.aspx?key=跑步鞋&hot=1" class="f12hui">跑步鞋</a>  &nbsp;
+<a href="http://zhekou.manmanbuy.com/searchnew.aspx?key=冰箱&hot=1" class="f12hui">冰箱</a>  &nbsp;
+<a href="http://zhekou.manmanbuy.com/searchnew.aspx?key=纯甄&hot=1" class="f12hui">纯甄</a>  &nbsp;
+<a href="http://zhekou.manmanbuy.com/searchnew.aspx?key=洗衣机&hot=1" class="f12hui">洗衣机</a>  &nbsp;
+<a href="http://zhekou.manmanbuy.com/searchnew.aspx?key=空调&hot=1" class="f12hui">空调</a>  &nbsp;
+<a href="http://zhekou.manmanbuy.com/searchnew.aspx?key=耳机&hot=1" class="f12hui">耳机</a>  &nbsp;
+<a href="http://zhekou.manmanbuy.com/searchnew.aspx?key=免邮券&hot=1" class="f12hui">免邮券</a>  &nbsp;
+<a href="http://zhekou.manmanbuy.com/hotkey.aspx" class="f12hui" _hover-ignore="1">更多&gt;&gt;</a>
+    </div>
+</div>
+
+
+
+
+
+</div><div class="clear"></div></div> </div>
+<div style="width:100%; background-color: #f60; height:40px;" id="webindexmenu">
+     <div style="width:994px;margin: 0px auto; text-align: center;">
+     <div style="margin:0px;"><div class="menudiv3" id="menuindex"><a href="http://www.manmanbuy.com" class="menu">首页</a></div><div class="menudiv3" id="menubijia"><a href="http://home.manmanbuy.com/bijia.aspx" class="menu">全网比价</a></div><div class="menudiv3"  id="menucuxiao"><a href="http://cu.manmanbuy.com/" class="menu">省钱控</a></div>
+<div class="menudiv3" id="menuzhekou"><a href="http://zhekou.manmanbuy.com/" class="menu" target="_blank">国内折扣</a></div>
+<div class="menudiv3"  id="menubaicai"><a href="http://baicai.manmanbuy.com/" class="menu" target="_blank">白菜价</a></div>
+<div class="menudiv3"   id="menutool"><a href="http://tool.manmanbuy.com/HistoryLowest.aspx" class="menu" target="_blank">查历史价</a></div>
+
+ <!--更多-->
+            
+            <div class="menudiv3 main-menu-more"><a href="http://tool.manmanbuy.com/" class="menu m-a a-hassub">更多<i class="mmb-iconfont">&#xe62a;</i></a>
+                <div class="sub">
+                    <dl> <dd>
+                            <a class="s-a" href="http://fanli.manmanbuy.com/">商城导航</a></dd>
+                        <dd>
+                            <a class="s-a" href="http://quan.manmanbuy.com/">优惠券</a></dd>
+                        <dd>
+                            <a class="s-a" href="http://tool2.manmanbuy.com/PriceLessSort.aspx">神价监控</a></dd>
+
+                        <dd>
+                            <a class="s-a" href="http://tool2.manmanbuy.com/coudan.aspx">1元凑单品</a></dd>
+
+                      
+                    </dl>
+                </div>
+            </div>
+            <!--更多-->
+
+
+
+<div style="float:right;padding-top:11px;height: 29px;width:90px;line-height:18px; text-align:center; " id="menupinpai"><a href="http://home.manmanbuy.com/app.aspx" target="_blank" style="font-size: 14px;font-weight: normal;Color: #ffffff;background-image:url(http://misc.manmanbuy.com/images/app.gif); background-position:0px 0px; background-repeat:no-repeat; padding-left:20px; display:inline-block;">APP下载</a></div></div><div class="clear"></div></div></div> 
+
+<style type="text/css">
+@font-face {font-family: "iconfont"; src: url('//static.manmanbuy.com/resources/public/iconfont/iconfont.eot?t=1463617611');src: url('//static.manmanbuy.com/resources/public/iconfont/iconfont.eot?t=1463617611#iefix') format('embedded-opentype'),url('//static.manmanbuy.com/resources/public/iconfont/iconfont.woff?t=1463617611') format('woff'),url('//static.manmanbuy.com/resources/public/iconfont/iconfont.ttf?t=1463617611') format('truetype'),url('//static.manmanbuy.com/resources/public/iconfont/iconfont.svg?t=1463617611#iconfont') format('svg');}
+.mmb-iconfont {font-family:"iconfont" !important;font-size:16px;font-style:normal;-webkit-font-smoothing: antialiased;-webkit-text-stroke-width: 0.2px; -moz-osx-font-smoothing: grayscale;}
+.main-menu-more{ width: 88px;    position: relative;}
+.main-menu-more a.m-a{ color:#ffffff; font-size:15px; line-height:40px; text-decoration: none;display: block;height: 40px; padding:0px 20px;}
+.main-menu-more a.m-a:hover{border-bottom: 0px solid #e63b0d; line-height: 40px; height: 37px; overflow: hidden;}
+.main-menu-more a.a-hassub{border:1px solid #ff6600; border-bottom: none; height: 39px; line-height: 37px;}
+.main-menu-more .sub{ display: none; padding: 5px 0; background-color: #ffffff; position: absolute;z-index:999;left:0px; border: 1px solid #ededed;border-top:none;}
+.main-menu-more .sub dl{margin:0px;padding:0px;}
+.main-menu-more .sub dl dd{margin:0px;padding:0px;}
+.main-menu-more .sub a.s-a{ display: block; padding: 0 20px; line-height: 35px; color: #666; white-space: nowrap; font-size: 14px; text-align: left;}
+.main-menu-more .sub a.s-a:hover{ background-color: #eeeeee;text-decoration: none;}
+.main-menu-more.on .sub{display: block;}
+.main-menu-more.on a.m-a{border-bottom: 0px solid #e63b0d; line-height: 40px; height: 37px; overflow: hidden;}
+.main-menu-more.on a.a-hassub{background-color:#ffffff; color:#ff6600;border:1px solid #ededed; margin-top:2px; border-bottom:none; line-height: 35px;}
+</style>
+<script type="text/javascript">
+$(function() {
+    $('.main-menu-more').hover(function() {
+    	$(this).addClass('on');
+    	$(this).find('.mmb-iconfont').html('&#xe62b;');
+    }, function() {
+		$(this).removeClass('on');
+		$(this).find('.mmb-iconfont').html('&#xe62a;');
+    });
+})
+</script><script type="text/javascript">$("#menubijia").removeClass("menudiv2");$("#menubijia").addClass("menudiv2d");</script><div style="width: 994px; margin: 0px auto; text-align: center;"> <div style="width: 980px; height: 20px; text-align: left; padding: 0px 6px 2px 0px; margin-top: 0px;">
+                <div id="resultcomment" style="float: left; width: 700px; padding-top:14px;">
+                    <a href="http://www.manmanbuy.com">比价网</a> > <a href="http://s.manmanbuy.com">购物搜索</a> &nbsp; 共找到相关商品<span style="color: Red; font-weight: bold;">45621</span>件
+                </div>
+            </div>
+            <div class="clear2">
+            </div><div class="listheadandpro"><div class="titlebodyhead2">
+                        <div class='titlebodyhead'>
+<div class='T'>筛选商品</div>
+
+                            <div class="titlebodyheadright">
+                                <img src="http://misc.manmanbuy.com/images/search/write.png" /><a href="http://help.manmanbuy.com/fk.aspx?sxz=&key=口红"
+                                    target="_blank">对搜索结果不满意？告诉我们吧！</a></div>
+                        </div>
+                        <div class='clear'>
+                        </div>
+                        <div>
+
+
+                        </div>
+                        <div class="clear2">
+                        </div>
+                    </div><div  id="disxsc" class="divxscClass"></div>
+                        <div id="BooksDiv" class="divbookClass"></div> <div class="Rsort"><div style="width: 990px; margin-top: 6px; padding-bottom: 2px; overflow: hidden;">
+                            <div class="searchBarN">
+                                <div class="sL">
+                                    <div class="sLtab sLtab1">
+                                        <a href="Default.aspx?smallclass=0&ppid=0&siteid=&searchmode=0&f1=0&f2=0&f3=0&f4=0&f5=0&f6=0&price1=0&price2=0&orderby=&iszy=0&istmall=0&zdj=0&key=%bf%da%ba%ec&v=&k=&min=&max=&w=&w2=&ft=&ft2=&distype=0"
+                                            class="tab1">默认排序</a> <a href="Default.aspx?smallclass=0&ppid=0&siteid=&searchmode=0&f1=0&f2=0&f3=0&f4=0&f5=0&f6=0&price1=0&price2=0&orderby=sell&iszy=0&istmall=0&zdj=0&key=%bf%da%ba%ec&v=&k=&min=&max=&w=&w2=&ft=&ft2=&distype=0"
+                                                class="tab2" title="按销量从多到少排序">销量</a> <a href="Default.aspx?smallclass=0&ppid=0&siteid=&searchmode=0&f1=0&f2=0&f3=0&f4=0&f5=0&f6=0&price1=0&price2=0&orderby=price&iszy=0&istmall=0&zdj=0&key=%bf%da%ba%ec&v=&k=&min=&max=&w=&w2=&ft=&ft2=&distype=0"
+                                                    class="tab3" title="按价格从低到高排序">价格</a> <a href="Default.aspx?smallclass=0&ppid=0&siteid=&searchmode=0&f1=0&f2=0&f3=0&f4=0&f5=0&f6=0&price1=0&price2=0&orderby=price2&iszy=0&istmall=0&zdj=0&key=%bf%da%ba%ec&v=&k=&min=&max=&w=&w2=&ft=&ft2=&distype=0"
+                                                        class="tab4" title="按价格从高到低排序">价格</a>
+                                    </div>
+                                    <div class="price">
+                                       <script type="text/javascript">
+                                           $(function(){
+	                                      $('.searchBarN .price .tips .a-close').click(function(){
+		                              $(this).parent().fadeOut();  
+	                                   })
+	                                      setTimeout(function(){
+		                              if($('.searchBarN .price .tips').css('display')!='none'){
+		                              $('.searchBarN .price .tips').fadeOut(); 
+	                                      }},5000)
+                                          })
+                                       </script>
+                                        <form action="Default.aspx" method="get" name="fprice">
+                                        价格&nbsp;<input type="text" class="priceT" name="price1" value="" />
+                                        -
+                                        <input type="text" class="priceT" name="price2" value="" />&nbsp;&nbsp;<input
+                                            type="image" src="http://misc.manmanbuy.com/images/search/ok.gif" />
+                                        <input type="hidden" name="key" value="口红" />
+                                        <input type="hidden" name="orderby" value="score" />
+                                        <input type="hidden" name="distype" value="0" />
+                                        <input type="hidden" name="smallclass" value="0" />
+                                        <input type="hidden" name="siteid" value="" />
+                                        <input type="hidden" name="iszy" value="0" />
+                                        <input type="hidden" name="ppid" value="0" />
+                                        <input type="hidden" name="f1" value="0" />
+                                        <input type="hidden" name="f2" value="0" />
+                                        <input type="hidden" name="f3" value="0" />
+                                        <input type="hidden" name="f4" value="0" />
+                                        <input type="hidden" name="f5" value="0" />
+                                        <input type="hidden" name="f6" value="0" />
+                                        <input type="hidden" name="searchmode" value="0" />
+                                        <input type="hidden" name="cflag" value="1" />
+                                        </form>
+                                    </div>
+                                </div>
+                                <div class="sLSelectZiying">
+                                    <input type="checkbox" name="chkiszy"  onclick="window.location.href='Default.aspx?smallclass=0&ppid=0&siteid=&searchmode=0&f1=0&f2=0&f3=0&f4=0&f5=0&f6=0&price1=0&price2=0&orderby=score&iszy=1&istmall=0&zdj=0&key=%bf%da%ba%ec&v=&k=&min=&max=&w=&w2=&ft=&ft2=&distype=0'" /><a
+                                        href="Default.aspx?smallclass=0&ppid=0&siteid=&searchmode=0&f1=0&f2=0&f3=0&f4=0&f5=0&f6=0&price1=0&price2=0&orderby=score&iszy=1&istmall=0&zdj=0&key=%bf%da%ba%ec&v=&k=&min=&max=&w=&w2=&ft=&ft2=&distype=0">排除第三方(显示自营)</a>
+                               </div>
+                                <div class="show show1">
+                                    <a href="Default.aspx?smallclass=0&ppid=0&siteid=&searchmode=0&f1=0&f2=0&f3=0&f4=0&f5=0&f6=0&price1=0&price2=0&orderby=score&iszy=0&istmall=0&zdj=0&key=%bf%da%ba%ec&v=&k=&min=&max=&w=&w2=&ft=&ft2=&distype=0" class="showTab1">列表</a> <a href="Default.aspx?smallclass=0&ppid=0&siteid=&searchmode=0&f1=0&f2=0&f3=0&f4=0&f5=0&f6=0&price1=0&price2=0&orderby=score&iszy=0&istmall=0&zdj=0&key=%bf%da%ba%ec&v=&k=&min=&max=&w=&w2=&ft=&ft2=&distype=1"
+                                        class="showTab2">大图</a>
+                                </div>
+                            </div>
+  
+                        </div><script type="text/javascript">
+              $(function(){
+	               $(".position .selector").hover(function(){
+                            $('.position .selector').addClass('hover');
+                       },function(){$('.position .selector').removeClass('hover');})
+	               $(".position .tabs li").each(function(index){
+		               $(this).click(function(){
+			          $(this).addClass("on").siblings().removeClass("on");
+			          $(this).parent().parent().parent().find(".arealist .selcon").eq(index).show().siblings().hide();
+		               })
+	               })
+             })
+        </script>
+        <div class="query-bar">
+          <div class="iszy"></div>
+          <div class="position">
+            <div class="dt">收货地</div>
+            <div class="dd">
+              <div class="selector">
+                <div class="text">
+                  <div id="userAreaName">&nbsp;</div>
+                  <b></b> </div>
+                <div class="close" onclick="$('.position .selector').removeClass('hover')"></div>
+                <div class="content-box">
+                  <div class="content">
+                    <div class="tabs">
+                      <ul>
+                        <li class="on"><a href="javascript:;" id="per" q="1">浙江</a></li>
+                        <li><a href="javascript:;" id="city" v="33">温州市</a></li>
+                        <li><a href="javascript:;" id="county" v="3303">瓯海区</a></li>
+                      </ul>
+                      <div class="clear"></div>
+                    </div>
+                    <div class="arealist">
+                      <div class="selcon b-province" style="display: block;">
+                        <ul>
+                          <li><a v="110000" q="3" title="北京" href="###">北京</a></li>
+                          <li><a v="310000" q="1" title="上海" href="###">上海</a></li>
+                          <li><a v="120000" q="3" title="天津" href="###">天津</a></li>
+                          <li><a v="500000" q="5" title="重庆" href="###">重庆</a></li>
+                          <li><a v="130000" q="3" title="河北" href="###">河北</a></li>
+                          <li><a v="140000" q="3" title="山西" href="###">山西</a></li>
+                          <li><a v="410000" q="4" title="河南" href="###">河南</a></li>
+                          <li><a v="210000" q="6" title="辽宁" href="###">辽宁</a></li>
+                          <li><a v="220000" q="6" title="吉林" href="###">吉林</a></li>
+                          <li><a v="230000" q="6" title="黑龙江" href="###">黑龙江</a></li>
+                          <li><a v="150000" q="3" title="内蒙古" href="###">内蒙古</a></li>
+                          <li><a v="320000" q="1" title="江苏" href="###">江苏</a></li>
+                          <li><a v="370000" q="3" title="山东" href="###">山东</a></li>
+                          <li><a v="340000" q="1" title="安徽" href="###">安徽</a></li>
+                          <li><a v="330000" q="1" title="浙江" href="###">浙江</a></li>
+                          <li><a v="350000" q="2" title="福建" href="###">福建</a></li>
+                          <li><a v="420000" q="4" title="湖北" href="###">湖北</a></li>
+                          <li><a v="430000" q="4" title="湖南" href="###">湖南</a></li>
+                          <li><a v="440000" q="2" title="广东" href="###">广东</a></li>
+                          <li><a v="450000" q="2" title="广西" href="###">广西</a></li>
+                          <li><a v="360000" q="4" title="江西" href="###">江西</a></li>
+                          <li><a v="510000" q="5" title="四川" href="###">四川</a></li>
+                          <li><a v="460000" q="2" title="海南" href="###">海南</a></li>
+                          <li><a v="520000" q="5" title="贵州" href="###">贵州</a></li>
+                          <li><a v="530000" q="5" title="云南" href="###">云南</a></li>
+                          <li><a v="540000" q="5" title="西藏" href="###">西藏</a></li>
+                          <li><a v="610000" q="7" title="陕西" href="###">陕西</a></li>
+                          <li><a v="620000" q="7" title="甘肃" href="###">甘肃</a></li>
+                          <li><a v="630000" q="7" title="青海" href="###">青海</a></li>
+                          <li><a v="640000" q="7" title="宁夏" href="###">宁夏</a></li>
+                          <li><a v="650000" q="7" title="新疆" href="###">新疆</a></li>
+                        </ul>
+                        <div class="clear"> </div>
+                      </div>
+                      <div class="selcon b-city"></div>
+                      <div class="selcon b-town"></div>
+
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="dd"><a href="javascript:;" class="a-submit">查看是否有货</a></div>
+          </div>
+          <div class="clear"></div>
+        </div><div id="listpro" class="disprowkuang"><div class='div990'><div class='div1100'><div id="showTBBefore"></div><div class="bjlineSmall singlebj bj_313370962" skuid="526917495237_3135344435244" hj="0" v='{"bjid":313370962,"sitename":"天猫旗舰店","price":"128.00"}'>
+  <div class="pic"><a class="shenqingGY"  href="http://item.tmall.com/item.htm?id=526917495237"  isconvert="1" biz-itemid="526917495237" target="_blank"><img onerror="this.src='http://misc.manmanbuy.com/images/none.gif'"  src="//img.alicdn.com/tfscom/i3/479966771/TB1qyefnf1TBuNjy0FjXXajyXXa_!!0-item_pic.jpg_220x220.jpg" /></a></div>
+  <div class="title">
+    <div class="t"><a class="shenqingGY"  href="http://item.tmall.com/item.htm?id=526917495237"  isconvert="1" biz-itemid="526917495237" target="_blank" class="f12sc">玛丽黛佳轻雾感唇膏<font class="spnamehighword">口红</font> 哑光持久保湿不容易脱色豆沙南瓜色正品</a> <span> <span class="priceyouhui"></span></span></div>
+<div class="addfav"><a v="favPrice&bjid=313370962&url=http%3a%2f%2fitem.tmall.com%2fitem.htm%3fid%3d526917495237" class="iframefav" href="#iframemain"><i></i>收藏&降价通知</a></div>
+    
+  </div>
+  <div class="cost">
+    <div class="p AreaPrice"><em>&yen;</em><span class="listpricespan">128.0</span><span class="poptrend"><a href="http://tool.manmanbuy.com/historyLowest.aspx?url=http%3a%2f%2fitem.tmall.com%2fitem.htm%3fid%3d526917495237" target="_blank" class="f12sc"><img width="16px" height="14px" src="http://misc.manmanbuy.com/images/trendx2.png" border="0" alt="点击查看该商品的走势图"></a></span></div>
+   <font class='pricedanjia'></font><div class="mobprice"></div>
+   <div class="wxprice"></div>
+   <div class="youhuiinfo"></div>
+   <div style="width:120px"><span style="color:#FF5600;"></span></div>
+  </div>
+  <div class="comment">有<a href="http://item.tmall.com/item.htm?id=526917495237"  isconvert="1" biz-itemid="526917495237"  target="_blank" class="f12sc">21188</a>人评论 </div>
+  <div class="mall">
+    <p class="m"><img src="http://sf.manmanbuy.com/images/sitelogo/278.png" align="absmiddle" alt="天猫旗舰店的报价" /> <a class="shenqingGY"  href="http://item.tmall.com/item.htm?id=526917495237"  isconvert="1" biz-itemid="526917495237" target="_blank" class="f14proname">天猫旗舰店</a></p>
+    <p class="AreaZY">玛丽黛佳旗舰店</p>
+    <p class="t">8小时前</p>
+  </div>
+  <div class="clear"></div>
+</div><div class="bjlineSmall singlebj bj_1043739140" skuid="554762930848" hj="0" v='{"bjid":1043739140,"sitename":"天猫旗舰店","price":"129.00"}'>
+  <div class="pic"><a class="shenqingGY"  href="http://item.tmall.com/item.htm?id=554762930848"  isconvert="1" biz-itemid="554762930848" target="_blank"><img onerror="this.src='http://misc.manmanbuy.com/images/none.gif'"  src="//img.alicdn.com/tfscom/i2/479966771/TB1sipJnkOWBuNjSsppXXXPgpXa_!!0-item_pic.jpg_220x220.jpg" /></a></div>
+  <div class="title">
+    <div class="t"><a class="shenqingGY"  href="http://item.tmall.com/item.htm?id=554762930848"  isconvert="1" biz-itemid="554762930848" target="_blank" class="f12sc">玛丽黛佳网红<font class="spnamehighword">口红</font>套装小样学生唇膏持久多色<font class="spnamehighword">口红</font>一盒装持久正品</a> <span> <span class="priceyouhui"></span></span></div>
+<div class="addfav"><a v="favPrice&bjid=1043739140&url=http%3a%2f%2fitem.tmall.com%2fitem.htm%3fid%3d554762930848" class="iframefav" href="#iframemain"><i></i>收藏&降价通知</a></div>
+    
+  </div>
+  <div class="cost">
+    <div class="p AreaPrice"><em>&yen;</em><span class="listpricespan">129.0</span><span class="poptrend"><a href="http://tool.manmanbuy.com/historyLowest.aspx?url=http%3a%2f%2fitem.tmall.com%2fitem.htm%3fid%3d554762930848" target="_blank" class="f12sc"><img width="16px" height="14px" src="http://misc.manmanbuy.com/images/trendx2.png" border="0" alt="点击查看该商品的走势图"></a></span></div>
+   <font class='pricedanjia'></font><div class="mobprice"></div>
+   <div class="wxprice"></div>
+   <div class="youhuiinfo"></div>
+   <div style="width:120px"><span style="color:#FF5600;"></span></div>
+  </div>
+  <div class="comment">有<a href="http://item.tmall.com/item.htm?id=554762930848"  isconvert="1" biz-itemid="554762930848"  target="_blank" class="f12sc">20187</a>人评论 </div>
+  <div class="mall">
+    <p class="m"><img src="http://sf.manmanbuy.com/images/sitelogo/278.png" align="absmiddle" alt="天猫旗舰店的报价" /> <a class="shenqingGY"  href="http://item.tmall.com/item.htm?id=554762930848"  isconvert="1" biz-itemid="554762930848" target="_blank" class="f14proname">天猫旗舰店</a></p>
+    <p class="AreaZY">玛丽黛佳旗舰店</p>
+    <p class="t">2小时前</p>
+  </div>
+  <div class="clear"></div>
+</div><div class="bjlineSmall singlebj bj_903842653" skuid="14432590585_3214294768367" hj="0" v='{"bjid":903842653,"sitename":"天猫旗舰店","price":"150.00"}'>
+  <div class="pic"><a class="shenqingGY"  href="http://item.tmall.com/item.htm?id=14432590585"  isconvert="1" biz-itemid="14432590585" target="_blank"><img onerror="this.src='http://misc.manmanbuy.com/images/none.gif'"  src="//img.alicdn.com/tfscom/i3/761942232/TB1Gdg5d8jTBKNjSZFDXXbVgVXa_!!0-item_pic.jpg_220x220.jpg" /></a></div>
+  <div class="title">
+    <div class="t"><a class="shenqingGY"  href="http://item.tmall.com/item.htm?id=14432590585"  isconvert="1" biz-itemid="14432590585" target="_blank" class="f12sc">羽西虫草焕颜滋润唇膏不易沾杯不易掉色<font class="spnamehighword">口红</font>持久保湿不易脱色通勤</a> <span> <span class="priceyouhui"></span></span></div>
+<div class="addfav"><a v="favPrice&bjid=903842653&url=http%3a%2f%2fitem.tmall.com%2fitem.htm%3fid%3d14432590585" class="iframefav" href="#iframemain"><i></i>收藏&降价通知</a></div>
+    
+  </div>
+  <div class="cost">
+    <div class="p AreaPrice"><em>&yen;</em><span class="listpricespan">150.0</span><span class="poptrend"><a href="http://tool.manmanbuy.com/historyLowest.aspx?url=http%3a%2f%2fitem.tmall.com%2fitem.htm%3fid%3d14432590585" target="_blank" class="f12sc"><img width="16px" height="14px" src="http://misc.manmanbuy.com/images/trendx2.png" border="0" alt="点击查看该商品的走势图"></a></span></div>
+   <font class='pricedanjia'></font><div class="mobprice"></div>
+   <div class="wxprice"></div>
+   <div class="youhuiinfo"></div>
+   <div style="width:120px"><span style="color:#FF5600;"></span></div>
+  </div>
+  <div class="comment">有<a href="http://item.tmall.com/item.htm?id=14432590585"  isconvert="1" biz-itemid="14432590585"  target="_blank" class="f12sc">3265</a>人评论 </div>
+  <div class="mall">
+    <p class="m"><img src="http://sf.manmanbuy.com/images/sitelogo/278.png" align="absmiddle" alt="天猫旗舰店的报价" /> <a class="shenqingGY"  href="http://item.tmall.com/item.htm?id=14432590585"  isconvert="1" biz-itemid="14432590585" target="_blank" class="f14proname">天猫旗舰店</a></p>
+    <p class="AreaZY">羽西官方旗舰店</p>
+    <p class="t">4小时前</p>
+  </div>
+  <div class="clear"></div>
+</div><div class="bjlineSmall singlebj bj_722875160" skuid="528030330786_3337216073973" hj="0" v='{"bjid":722875160,"sitename":"天猫旗舰店","price":"215.00"}'>
+  <div class="pic"><a class="shenqingGY"  href="http://item.tmall.com/item.htm?id=528030330786"  isconvert="1" biz-itemid="528030330786" target="_blank"><img onerror="this.src='http://misc.manmanbuy.com/images/none.gif'"  src="//img.alicdn.com/tfscom/i4/2820842454/TB1OBvUdSYTBKNjSZKbXXXJ8pXa_!!0-item_pic.jpg_220x220.jpg" /></a></div>
+  <div class="title">
+    <div class="t"><a class="shenqingGY"  href="http://item.tmall.com/item.htm?id=528030330786"  isconvert="1" biz-itemid="528030330786" target="_blank" class="f12sc">【新品上市】shu uemura植村秀Yazbukey柔雾唇膏<font class="spnamehighword">口红</font>鞠婧�t同款</a> <span> <span class="priceyouhui"></span></span></div>
+<div class="addfav"><a v="favPrice&bjid=722875160&url=http%3a%2f%2fitem.tmall.com%2fitem.htm%3fid%3d528030330786" class="iframefav" href="#iframemain"><i></i>收藏&降价通知</a></div>
+    
+  </div>
+  <div class="cost">
+    <div class="p AreaPrice"><em>&yen;</em><span class="listpricespan">215.0</span><span class="poptrend"><a href="http://tool.manmanbuy.com/historyLowest.aspx?url=http%3a%2f%2fitem.tmall.com%2fitem.htm%3fid%3d528030330786" target="_blank" class="f12sc"><img width="16px" height="14px" src="http://misc.manmanbuy.com/images/trendx2.png" border="0" alt="点击查看该商品的走势图"></a></span></div>
+   <font class='pricedanjia'></font><div class="mobprice"></div>
+   <div class="wxprice"></div>
+   <div class="youhuiinfo"></div>
+   <div style="width:120px"><span style="color:#FF5600;"></span></div>
+  </div>
+  <div class="comment">有<a href="http://item.tmall.com/item.htm?id=528030330786"  isconvert="1" biz-itemid="528030330786"  target="_blank" class="f12sc">16784</a>人评论 </div>
+  <div class="mall">
+    <p class="m"><img src="http://sf.manmanbuy.com/images/sitelogo/278.png" align="absmiddle" alt="天猫旗舰店的报价" /> <a class="shenqingGY"  href="http://item.tmall.com/item.htm?id=528030330786"  isconvert="1" biz-itemid="528030330786" target="_blank" class="f14proname">天猫旗舰店</a></p>
+    <p class="AreaZY">shu uemura植村秀官方旗舰店</p>
+    <p class="t">6小时前</p>
+  </div>
+  <div class="clear"></div>
+</div><div class="bjlineSmall singlebj bj_811458622" skuid="537286782401_3235128933069" hj="0" v='{"bjid":811458622,"sitename":"天猫旗舰店","price":"270.00"}'>
+  <div class="pic"><a class="shenqingGY"  href="http://item.tmall.com/item.htm?id=537286782401&skuId=3235128933069"  isconvert="1" biz-itemid="537286782401" target="_blank"><img onerror="this.src='http://misc.manmanbuy.com/images/none.gif'"  src="//img.alicdn.com/tfscom/i4/2360209412/TB1xl5DdZuYBuNkSmRyXXcA3pXa_!!0-item_pic.jpg_220x220.jpg" /></a></div>
+  <div class="title">
+    <div class="t"><a class="shenqingGY"  href="http://item.tmall.com/item.htm?id=537286782401&skuId=3235128933069"  isconvert="1" biz-itemid="537286782401" target="_blank" class="f12sc">兰蔻菁纯柔润丝缎唇膏<font class="spnamehighword">口红</font> 滋润显色持久易上色 180王俊凯亲选</a> <span> <span class="priceyouhui"></span></span></div>
+<div class="addfav"><a v="favPrice&bjid=811458622&url=http%3a%2f%2fitem.tmall.com%2fitem.htm%3fid%3d537286782401%26skuId%3d3235128933069" class="iframefav" href="#iframemain"><i></i>收藏&降价通知</a></div>
+    
+  </div>
+  <div class="cost">
+    <div class="p AreaPrice"><em>&yen;</em><span class="listpricespan">270.0</span><span class="poptrend"><a href="http://tool.manmanbuy.com/historyLowest.aspx?url=http%3a%2f%2fitem.tmall.com%2fitem.htm%3fid%3d537286782401%26skuId%3d3235128933069" target="_blank" class="f12sc"><img width="16px" height="14px" src="http://misc.manmanbuy.com/images/trendx2.png" border="0" alt="点击查看该商品的走势图"></a></span></div>
+   <font class='pricedanjia'></font><div class="mobprice"></div>
+   <div class="wxprice"></div>
+   <div class="youhuiinfo"></div>
+   <div style="width:120px"><span style="color:#FF5600;"></span></div>
+  </div>
+  <div class="comment">有<a href="http://item.tmall.com/item.htm?id=537286782401&skuId=3235128933069"  isconvert="1" biz-itemid="537286782401"  target="_blank" class="f12sc">21625</a>人评论 </div>
+  <div class="mall">
+    <p class="m"><img src="http://sf.manmanbuy.com/images/sitelogo/278.png" align="absmiddle" alt="天猫旗舰店的报价" /> <a class="shenqingGY"  href="http://item.tmall.com/item.htm?id=537286782401&skuId=3235128933069"  isconvert="1" biz-itemid="537286782401" target="_blank" class="f14proname">天猫旗舰店</a></p>
+    <p class="AreaZY">Lancome兰蔻官方旗舰店</p>
+    <p class="t">5小时前</p>
+  </div>
+  <div class="clear"></div>
+</div><div class="bjlineSmall singlebj bj_433423052" skuid="43502413713_77061317887" hj="0" v='{"bjid":433423052,"sitename":"天猫旗舰店","price":"270.00"}'>
+  <div class="pic"><a class="shenqingGY"  href="http://item.tmall.com/item.htm?id=43502413713"  isconvert="1" biz-itemid="43502413713" target="_blank"><img onerror="this.src='http://misc.manmanbuy.com/images/none.gif'"  src="//img.alicdn.com/tfscom/i3/2064892827/TB1daNDlHGYBuNjy0FoXXciBFXa_!!0-item_pic.jpg_220x220.jpg" /></a></div>
+  <div class="title">
+    <div class="t"><a class="shenqingGY"  href="http://item.tmall.com/item.htm?id=43502413713"  isconvert="1" biz-itemid="43502413713" target="_blank" class="f12sc">雅诗兰黛唇膏<font class="spnamehighword">口红</font> 倾慕魅色唇膏 持久保湿滋润 防水不脱色 豆沙色</a> <span> <span class="priceyouhui"></span></span></div>
+<div class="addfav"><a v="favPrice&bjid=433423052&url=http%3a%2f%2fitem.tmall.com%2fitem.htm%3fid%3d43502413713" class="iframefav" href="#iframemain"><i></i>收藏&降价通知</a></div>
+    
+  </div>
+  <div class="cost">
+    <div class="p AreaPrice"><em>&yen;</em><span class="listpricespan">270.0</span><span class="poptrend"><a href="http://tool.manmanbuy.com/historyLowest.aspx?url=http%3a%2f%2fitem.tmall.com%2fitem.htm%3fid%3d43502413713" target="_blank" class="f12sc"><img width="16px" height="14px" src="http://misc.manmanbuy.com/images/trendx2.png" border="0" alt="点击查看该商品的走势图"></a></span></div>
+   <font class='pricedanjia'></font><div class="mobprice"></div>
+   <div class="wxprice"></div>
+   <div class="youhuiinfo"></div>
+   <div style="width:120px"><span style="color:#FF5600;"></span></div>
+  </div>
+  <div class="comment">有<a href="http://item.tmall.com/item.htm?id=43502413713"  isconvert="1" biz-itemid="43502413713"  target="_blank" class="f12sc">23928</a>人评论 </div>
+  <div class="mall">
+    <p class="m"><img src="http://sf.manmanbuy.com/images/sitelogo/278.png" align="absmiddle" alt="天猫旗舰店的报价" /> <a class="shenqingGY"  href="http://item.tmall.com/item.htm?id=43502413713"  isconvert="1" biz-itemid="43502413713" target="_blank" class="f14proname">天猫旗舰店</a></p>
+    <p class="AreaZY">Estee Lauder雅诗兰黛官方旗舰店</p>
+    <p class="t">8小时前</p>
+  </div>
+  <div class="clear"></div>
+</div><div class="bjlineSmall singlebj bj_300095678" skuid="18166879101_27601955023" hj="0" v='{"bjid":300095678,"sitename":"天猫旗舰店","price":"48.00"}'>
+  <div class="pic"><a class="shenqingGY"  href="http://item.tmall.com/item.htm?id=18166879101"  isconvert="1" biz-itemid="18166879101" target="_blank"><img onerror="this.src='http://misc.manmanbuy.com/images/none.gif'"  src="//img.alicdn.com/tfscom/i2/1072778034/TB1xvpDeljTBKNjSZFwXXcG4XXa_!!0-item_pic.jpg_220x220.jpg" /></a></div>
+  <div class="title">
+    <div class="t"><a class="shenqingGY"  href="http://item.tmall.com/item.htm?id=18166879101"  isconvert="1" biz-itemid="18166879101" target="_blank" class="f12sc">兰瑟唇彩花漾年华 带镜子保湿滋润不沾杯液体<font class="spnamehighword">口红</font></a> <span> <span class="priceyouhui"></span></span></div>
+<div class="addfav"><a v="favPrice&bjid=300095678&url=http%3a%2f%2fitem.tmall.com%2fitem.htm%3fid%3d18166879101" class="iframefav" href="#iframemain"><i></i>收藏&降价通知</a></div>
+    
+  </div>
+  <div class="cost">
+    <div class="p AreaPrice"><em>&yen;</em><span class="listpricespan">48.0</span><span class="poptrend"><a href="http://tool.manmanbuy.com/historyLowest.aspx?url=http%3a%2f%2fitem.tmall.com%2fitem.htm%3fid%3d18166879101" target="_blank" class="f12sc"><img width="16px" height="14px" src="http://misc.manmanbuy.com/images/trendx2.png" border="0" alt="点击查看该商品的走势图"></a></span></div>
+   <font class='pricedanjia'></font><div class="mobprice"></div>
+   <div class="wxprice"></div>
+   <div class="youhuiinfo"></div>
+   <div style="width:120px"><span style="color:#FF5600;"></span></div>
+  </div>
+  <div class="comment">有<a href="http://item.tmall.com/item.htm?id=18166879101"  isconvert="1" biz-itemid="18166879101"  target="_blank" class="f12sc">2758</a>人评论 </div>
+  <div class="mall">
+    <p class="m"><img src="http://sf.manmanbuy.com/images/sitelogo/278.png" align="absmiddle" alt="天猫旗舰店的报价" /> <a class="shenqingGY"  href="http://item.tmall.com/item.htm?id=18166879101"  isconvert="1" biz-itemid="18166879101" target="_blank" class="f14proname">天猫旗舰店</a></p>
+    <p class="AreaZY">兰瑟化妆品旗舰店</p>
+    <p class="t">8小时前</p>
+  </div>
+  <div class="clear"></div>
+</div><div class="bjlineSmall singlebj bj_795363953" skuid="41040712104_3371815256168" hj="0" v='{"bjid":795363953,"sitename":"天猫旗舰店","price":"59.00"}'>
+  <div class="pic"><a class="shenqingGY"  href="http://item.tmall.com/item.htm?id=41040712104"  isconvert="1" biz-itemid="41040712104" target="_blank"><img onerror="this.src='http://misc.manmanbuy.com/images/none.gif'"  src="//img.alicdn.com/tfscom/i2/1578624441/TB1PSYqmWmWBuNjy1XaXXXCbXXa_!!0-item_pic.jpg_220x220.jpg" /></a></div>
+  <div class="title">
+    <div class="t"><a class="shenqingGY"  href="http://item.tmall.com/item.htm?id=41040712104"  isconvert="1" biz-itemid="41040712104" target="_blank" class="f12sc">巧迪尚惠唇釉唇蜜乳唇彩保湿滋润不易脱色防水长效<font class="spnamehighword">口红</font>染唇液学生</a> <span> <span class="priceyouhui"></span></span></div>
+<div class="addfav"><a v="favPrice&bjid=795363953&url=http%3a%2f%2fitem.tmall.com%2fitem.htm%3fid%3d41040712104" class="iframefav" href="#iframemain"><i></i>收藏&降价通知</a></div>
+    
+  </div>
+  <div class="cost">
+    <div class="p AreaPrice"><em>&yen;</em><span class="listpricespan">59.0</span><span class="poptrend"><a href="http://tool.manmanbuy.com/historyLowest.aspx?url=http%3a%2f%2fitem.tmall.com%2fitem.htm%3fid%3d41040712104" target="_blank" class="f12sc"><img width="16px" height="14px" src="http://misc.manmanbuy.com/images/trendx2.png" border="0" alt="点击查看该商品的走势图"></a></span></div>
+   <font class='pricedanjia'></font><div class="mobprice"></div>
+   <div class="wxprice"></div>
+   <div class="youhuiinfo"></div>
+   <div style="width:120px"><span style="color:#FF5600;"></span></div>
+  </div>
+  <div class="comment">有<a href="http://item.tmall.com/item.htm?id=41040712104"  isconvert="1" biz-itemid="41040712104"  target="_blank" class="f12sc">10221</a>人评论 </div>
+  <div class="mall">
+    <p class="m"><img src="http://sf.manmanbuy.com/images/sitelogo/278.png" align="absmiddle" alt="天猫旗舰店的报价" /> <a class="shenqingGY"  href="http://item.tmall.com/item.htm?id=41040712104"  isconvert="1" biz-itemid="41040712104" target="_blank" class="f14proname">天猫旗舰店</a></p>
+    <p class="AreaZY">巧迪尚惠旗舰店</p>
+    <p class="t">6小时前</p>
+  </div>
+  <div class="clear"></div>
+</div><div class="bjlineSmall singlebj bj_903842579" skuid="555230984000" hj="0" v='{"bjid":903842579,"sitename":"天猫旗舰店","price":"69.00"}'>
+  <div class="pic"><a class="shenqingGY"  href="http://item.tmall.com/item.htm?id=555230984000"  isconvert="1" biz-itemid="555230984000" target="_blank"><img onerror="this.src='http://misc.manmanbuy.com/images/none.gif'"  src="//img.alicdn.com/tfscom/i3/191008125/TB1fJX_o3nH8KJjSspcXXb3QFXa_!!0-item_pic.jpg_220x220.jpg" /></a></div>
+  <div class="title">
+    <div class="t"><a class="shenqingGY"  href="http://item.tmall.com/item.htm?id=555230984000"  isconvert="1" biz-itemid="555230984000" target="_blank" class="f12sc">美康粉黛十里桃花定制<font class="spnamehighword">口红</font>套装组合不易脱色持久保湿</a> <span> <span class="priceyouhui"></span></span></div>
+<div class="addfav"><a v="favPrice&bjid=903842579&url=http%3a%2f%2fitem.tmall.com%2fitem.htm%3fid%3d555230984000" class="iframefav" href="#iframemain"><i></i>收藏&降价通知</a></div>
+    
+  </div>
+  <div class="cost">
+    <div class="p AreaPrice"><em>&yen;</em><span class="listpricespan">69.0</span><span class="poptrend"><a href="http://tool.manmanbuy.com/historyLowest.aspx?url=http%3a%2f%2fitem.tmall.com%2fitem.htm%3fid%3d555230984000" target="_blank" class="f12sc"><img width="16px" height="14px" src="http://misc.manmanbuy.com/images/trendx2.png" border="0" alt="点击查看该商品的走势图"></a></span></div>
+   <font class='pricedanjia'></font><div class="mobprice"></div>
+   <div class="wxprice"></div>
+   <div class="youhuiinfo"></div>
+   <div style="width:120px"><span style="color:#FF5600;"></span></div>
+  </div>
+  <div class="comment">有<a href="http://item.tmall.com/item.htm?id=555230984000"  isconvert="1" biz-itemid="555230984000"  target="_blank" class="f12sc">1609</a>人评论 </div>
+  <div class="mall">
+    <p class="m"><img src="http://sf.manmanbuy.com/images/sitelogo/278.png" align="absmiddle" alt="天猫旗舰店的报价" /> <a class="shenqingGY"  href="http://item.tmall.com/item.htm?id=555230984000"  isconvert="1" biz-itemid="555230984000" target="_blank" class="f14proname">天猫旗舰店</a></p>
+    <p class="AreaZY">美康粉黛旗舰店</p>
+    <p class="t">4小时前</p>
+  </div>
+  <div class="clear"></div>
+</div><div class="bjlineSmall singlebj bj_628217695" skuid="538681154012_3222327916926" hj="0" v='{"bjid":628217695,"sitename":"天猫旗舰店","price":"72.00"}'>
+  <div class="pic"><a class="shenqingGY"  href="http://item.tmall.com/item.htm?id=538681154012"  isconvert="1" biz-itemid="538681154012" target="_blank"><img onerror="this.src='http://misc.manmanbuy.com/images/none.gif'"  src="//img.alicdn.com/tfscom/i2/2949540698/TB1hA_PcFmWBuNjSspdXXbugXXa_!!0-item_pic.jpg_220x220.jpg" /></a></div>
+  <div class="title">
+    <div class="t"><a class="shenqingGY"  href="http://item.tmall.com/item.htm?id=538681154012"  isconvert="1" biz-itemid="538681154012" target="_blank" class="f12sc">Revlon/露华浓高清唇蜜唇釉唇彩玻璃<font class="spnamehighword">口红</font> 保湿滋润不脱色美国正品</a> <span> <span class="priceyouhui"></span></span></div>
+<div class="addfav"><a v="favPrice&bjid=628217695&url=http%3a%2f%2fitem.tmall.com%2fitem.htm%3fid%3d538681154012" class="iframefav" href="#iframemain"><i></i>收藏&降价通知</a></div>
+    
+  </div>
+  <div class="cost">
+    <div class="p AreaPrice"><em>&yen;</em><span class="listpricespan">72.0</span><span class="poptrend"><a href="http://tool.manmanbuy.com/historyLowest.aspx?url=http%3a%2f%2fitem.tmall.com%2fitem.htm%3fid%3d538681154012" target="_blank" class="f12sc"><img width="16px" height="14px" src="http://misc.manmanbuy.com/images/trendx2.png" border="0" alt="点击查看该商品的走势图"></a></span></div>
+   <font class='pricedanjia'></font><div class="mobprice"></div>
+   <div class="wxprice"></div>
+   <div class="youhuiinfo"></div>
+   <div style="width:120px"><span style="color:#FF5600;"></span></div>
+  </div>
+  <div class="comment">有<a href="http://item.tmall.com/item.htm?id=538681154012"  isconvert="1" biz-itemid="538681154012"  target="_blank" class="f12sc">237</a>人评论 </div>
+  <div class="mall">
+    <p class="m"><img src="http://sf.manmanbuy.com/images/sitelogo/278.png" align="absmiddle" alt="天猫旗舰店的报价" /> <a class="shenqingGY"  href="http://item.tmall.com/item.htm?id=538681154012"  isconvert="1" biz-itemid="538681154012" target="_blank" class="f14proname">天猫旗舰店</a></p>
+    <p class="AreaZY">Revlon海外旗舰店</p>
+    <p class="t">7小时前</p>
+  </div>
+  <div class="clear"></div>
+</div><div class="bjlineSmall singlebj bj_934326160" skuid="557834424786_3629266815520" hj="0" v='{"bjid":934326160,"sitename":"天猫旗舰店","price":"79.00"}'>
+  <div class="pic"><a class="shenqingGY"  href="http://item.tmall.com/item.htm?id=557834424786"  isconvert="1" biz-itemid="557834424786" target="_blank"><img onerror="this.src='http://misc.manmanbuy.com/images/none.gif'"  src="//img.alicdn.com/tfscom/i4/2949540698/TB12NCvfuuSBuNjSsplXXbe8pXa_!!0-item_pic.jpg_220x220.jpg" /></a></div>
+  <div class="title">
+    <div class="t"><a class="shenqingGY"  href="http://item.tmall.com/item.htm?id=557834424786"  isconvert="1" biz-itemid="557834424786" target="_blank" class="f12sc">Revlon/露华浓哑光唇釉咬唇妆唇蜜染唇液<font class="spnamehighword">口红</font>持久保湿滋润不脱色</a> <span> <span class="priceyouhui"></span></span></div>
+<div class="addfav"><a v="favPrice&bjid=934326160&url=http%3a%2f%2fitem.tmall.com%2fitem.htm%3fid%3d557834424786" class="iframefav" href="#iframemain"><i></i>收藏&降价通知</a></div>
+    
+  </div>
+  <div class="cost">
+    <div class="p AreaPrice"><em>&yen;</em><span class="listpricespan">79.0</span><span class="poptrend"><a href="http://tool.manmanbuy.com/historyLowest.aspx?url=http%3a%2f%2fitem.tmall.com%2fitem.htm%3fid%3d557834424786" target="_blank" class="f12sc"><img width="16px" height="14px" src="http://misc.manmanbuy.com/images/trendx2.png" border="0" alt="点击查看该商品的走势图"></a></span></div>
+   <font class='pricedanjia'></font><div class="mobprice"></div>
+   <div class="wxprice"></div>
+   <div class="youhuiinfo"></div>
+   <div style="width:120px"><span style="color:#FF5600;"></span></div>
+  </div>
+  <div class="comment">有<a href="http://item.tmall.com/item.htm?id=557834424786"  isconvert="1" biz-itemid="557834424786"  target="_blank" class="f12sc">161</a>人评论 </div>
+  <div class="mall">
+    <p class="m"><img src="http://sf.manmanbuy.com/images/sitelogo/278.png" align="absmiddle" alt="天猫旗舰店的报价" /> <a class="shenqingGY"  href="http://item.tmall.com/item.htm?id=557834424786"  isconvert="1" biz-itemid="557834424786" target="_blank" class="f14proname">天猫旗舰店</a></p>
+    <p class="AreaZY">Revlon海外旗舰店</p>
+    <p class="t">3小时前</p>
+  </div>
+  <div class="clear"></div>
+</div><div class="bjlineSmall singlebj bj_1065287594" skuid="545557815566_3706655879209" hj="0" v='{"bjid":1065287594,"sitename":"天猫旗舰店","price":"98.00"}'>
+  <div class="pic"><a class="shenqingGY"  href="http://item.tmall.com/item.htm?id=545557815566"  isconvert="1" biz-itemid="545557815566" target="_blank"><img onerror="this.src='http://misc.manmanbuy.com/images/none.gif'"  src="//img.alicdn.com/tfscom/i4/810921128/TB1F1DMmhGYBuNjy0FnXXX5lpXa_!!0-item_pic.jpg_220x220.jpg" /></a></div>
+  <div class="title">
+    <div class="t"><a class="shenqingGY"  href="http://item.tmall.com/item.htm?id=545557815566"  isconvert="1" biz-itemid="545557815566" target="_blank" class="f12sc">Nico彩妆套装全套盒组合初学者美妆工具新手裸妆淡妆化妆品正品女</a> <span> <span class="priceyouhui"></span></span></div>
+<div class="addfav"><a v="favPrice&bjid=1065287594&url=http%3a%2f%2fitem.tmall.com%2fitem.htm%3fid%3d545557815566" class="iframefav" href="#iframemain"><i></i>收藏&降价通知</a></div>
+    
+  </div>
+  <div class="cost">
+    <div class="p AreaPrice"><em>&yen;</em><span class="listpricespan">98.0</span><span class="poptrend"><a href="http://tool.manmanbuy.com/historyLowest.aspx?url=http%3a%2f%2fitem.tmall.com%2fitem.htm%3fid%3d545557815566" target="_blank" class="f12sc"><img width="16px" height="14px" src="http://misc.manmanbuy.com/images/trendx2.png" border="0" alt="点击查看该商品的走势图"></a></span></div>
+   <font class='pricedanjia'></font><div class="mobprice"></div>
+   <div class="wxprice"></div>
+   <div class="youhuiinfo"></div>
+   <div style="width:120px"><span style="color:#FF5600;"></span></div>
+  </div>
+  <div class="comment">有<a href="http://item.tmall.com/item.htm?id=545557815566"  isconvert="1" biz-itemid="545557815566"  target="_blank" class="f12sc">6584</a>人评论 </div>
+  <div class="mall">
+    <p class="m"><img src="http://sf.manmanbuy.com/images/sitelogo/278.png" align="absmiddle" alt="天猫旗舰店的报价" /> <a class="shenqingGY"  href="http://item.tmall.com/item.htm?id=545557815566"  isconvert="1" biz-itemid="545557815566" target="_blank" class="f14proname">天猫旗舰店</a></p>
+    <p class="AreaZY">nico旗舰店</p>
+    <p class="t">23小时前</p>
+  </div>
+  <div class="clear"></div>
+</div><div class="bjlineSmall singlebj bj_628223291" skuid="537830840975_3211272722755" hj="0" v='{"bjid":628223291,"sitename":"天猫旗舰店","price":"99.00"}'>
+  <div class="pic"><a class="shenqingGY"  href="http://item.tmall.com/item.htm?id=537830840975"  isconvert="1" biz-itemid="537830840975" target="_blank"><img onerror="this.src='http://misc.manmanbuy.com/images/none.gif'"  src="//img.alicdn.com/tfscom/i2/867769963/TB1a3sFflyWBuNkSmFPXXXguVXa_!!0-item_pic.jpg_220x220.jpg" /></a></div>
+  <div class="title">
+    <div class="t"><a class="shenqingGY"  href="http://item.tmall.com/item.htm?id=537830840975"  isconvert="1" biz-itemid="537830840975" target="_blank" class="f12sc">蓝秀鎏金哑光唇膏雾面咬唇妆姨妈色豆沙色脏橘色<font class="spnamehighword">口红</font>不脱色女</a> <span> <span class="priceyouhui"></span></span></div>
+<div class="addfav"><a v="favPrice&bjid=628223291&url=http%3a%2f%2fitem.tmall.com%2fitem.htm%3fid%3d537830840975" class="iframefav" href="#iframemain"><i></i>收藏&降价通知</a></div>
+    
+  </div>
+  <div class="cost">
+    <div class="p AreaPrice"><em>&yen;</em><span class="listpricespan">99.0</span><span class="poptrend"><a href="http://tool.manmanbuy.com/historyLowest.aspx?url=http%3a%2f%2fitem.tmall.com%2fitem.htm%3fid%3d537830840975" target="_blank" class="f12sc"><img width="16px" height="14px" src="http://misc.manmanbuy.com/images/trendx2.png" border="0" alt="点击查看该商品的走势图"></a></span></div>
+   <font class='pricedanjia'></font><div class="mobprice"></div>
+   <div class="wxprice"></div>
+   <div class="youhuiinfo"></div>
+   <div style="width:120px"><span style="color:#FF5600;"></span></div>
+  </div>
+  <div class="comment">有<a href="http://item.tmall.com/item.htm?id=537830840975"  isconvert="1" biz-itemid="537830840975"  target="_blank" class="f12sc">1249</a>人评论 </div>
+  <div class="mall">
+    <p class="m"><img src="http://sf.manmanbuy.com/images/sitelogo/278.png" align="absmiddle" alt="天猫旗舰店的报价" /> <a class="shenqingGY"  href="http://item.tmall.com/item.htm?id=537830840975"  isconvert="1" biz-itemid="537830840975" target="_blank" class="f14proname">天猫旗舰店</a></p>
+    <p class="AreaZY">蓝秀化妆品旗舰店</p>
+    <p class="t">7小时前</p>
+  </div>
+  <div class="clear"></div>
+</div><div class="bjlineSmall singlebj bj_550083819" skuid="538961436423_3220523164086" hj="0" v='{"bjid":550083819,"sitename":"天猫旗舰店","price":"118.00"}'>
+  <div class="pic"><a class="shenqingGY"  href="http://item.tmall.com/item.htm?id=538961436423"  isconvert="1" biz-itemid="538961436423" target="_blank"><img onerror="this.src='http://misc.manmanbuy.com/images/none.gif'"  src="//img.alicdn.com/tfscom/i4/1072778034/TB111SdnWSWBuNjSsrbXXa0mVXa_!!0-item_pic.jpg_220x220.jpg" /></a></div>
+  <div class="title">
+    <div class="t"><a class="shenqingGY"  href="http://item.tmall.com/item.htm?id=538961436423"  isconvert="1" biz-itemid="538961436423" target="_blank" class="f12sc">兰瑟锁色唇膏真丝派<font class="spnamehighword">口红</font>姨妈色保湿不易脱色雾面哑光专柜正品</a> <span> <span class="priceyouhui"></span></span></div>
+<div class="addfav"><a v="favPrice&bjid=550083819&url=http%3a%2f%2fitem.tmall.com%2fitem.htm%3fid%3d538961436423" class="iframefav" href="#iframemain"><i></i>收藏&降价通知</a></div>
+    
+  </div>
+  <div class="cost">
+    <div class="p AreaPrice"><em>&yen;</em><span class="listpricespan">118.0</span><span class="poptrend"><a href="http://tool.manmanbuy.com/historyLowest.aspx?url=http%3a%2f%2fitem.tmall.com%2fitem.htm%3fid%3d538961436423" target="_blank" class="f12sc"><img width="16px" height="14px" src="http://misc.manmanbuy.com/images/trendx2.png" border="0" alt="点击查看该商品的走势图"></a></span></div>
+   <font class='pricedanjia'></font><div class="mobprice"></div>
+   <div class="wxprice"></div>
+   <div class="youhuiinfo"></div>
+   <div style="width:120px"><span style="color:#FF5600;"></span></div>
+  </div>
+  <div class="comment">有<a href="http://item.tmall.com/item.htm?id=538961436423"  isconvert="1" biz-itemid="538961436423"  target="_blank" class="f12sc">2076</a>人评论 </div>
+  <div class="mall">
+    <p class="m"><img src="http://sf.manmanbuy.com/images/sitelogo/278.png" align="absmiddle" alt="天猫旗舰店的报价" /> <a class="shenqingGY"  href="http://item.tmall.com/item.htm?id=538961436423"  isconvert="1" biz-itemid="538961436423" target="_blank" class="f14proname">天猫旗舰店</a></p>
+    <p class="AreaZY">兰瑟化妆品旗舰店</p>
+    <p class="t">8小时前</p>
+  </div>
+  <div class="clear"></div>
+</div><div class="bjlineSmall singlebj bj_675152882" skuid="45762346651_105084756784" hj="1" v='{"bjid":675152882,"sitename":"天猫旗舰店","price":"140.00"}'>
+  <div class="pic"><a class="shenqingGY"  href="http://item.tmall.com/item.htm?id=45762346651&skuId=105084756784"  isconvert="1" biz-itemid="45762346651" target="_blank"><img onerror="this.src='http://misc.manmanbuy.com/images/none.gif'"  src="//img.alicdn.com/tfscom/i1/761942232/TB1AMaHn9tYBeNjSspkXXbU8VXa_!!0-item_pic.jpg_220x220.jpg" /></a></div>
+  <div class="title">
+    <div class="t"><a class="shenqingGY"  href="http://item.tmall.com/item.htm?id=45762346651&skuId=105084756784"  isconvert="1" biz-itemid="45762346651" target="_blank" class="f12sc">羽西灵芝生机晶透活养唇膏不易掉色<font class="spnamehighword">口红</font>持久不易沾杯正品保湿西柚</a> <span> <span class="priceyouhui"></span></span></div>
+<div class="addfav"><a v="favPrice&bjid=675152882&url=http%3a%2f%2fitem.tmall.com%2fitem.htm%3fid%3d45762346651%26skuId%3d105084756784" class="iframefav" href="#iframemain"><i></i>收藏&降价通知</a></div>
+    
+  </div>
+  <div class="cost">
+    <div class="p AreaPrice"><em>&yen;</em><span class="listpricespan">140.0</span><span class="poptrend"><a href="http://tool.manmanbuy.com/historyLowest.aspx?url=http%3a%2f%2fitem.tmall.com%2fitem.htm%3fid%3d45762346651%26skuId%3d105084756784" target="_blank" class="f12sc"><img width="16px" height="14px" src="http://misc.manmanbuy.com/images/trendx2.png" border="0" alt="点击查看该商品的走势图"></a></span></div>
+   <font class='pricedanjia'></font><div class="mobprice"></div>
+   <div class="wxprice"></div>
+   <div class="youhuiinfo"></div>
+   <div style="width:120px"><span style="color:#FF5600;"></span></div>
+  </div>
+  <div class="comment">有<a href="http://item.tmall.com/item.htm?id=45762346651&skuId=105084756784"  isconvert="1" biz-itemid="45762346651"  target="_blank" class="f12sc">1316</a>人评论 </div>
+  <div class="mall">
+    <p class="m"><img src="http://sf.manmanbuy.com/images/sitelogo/278.png" align="absmiddle" alt="天猫旗舰店的报价" /> <a class="shenqingGY"  href="http://item.tmall.com/item.htm?id=45762346651&skuId=105084756784"  isconvert="1" biz-itemid="45762346651" target="_blank" class="f14proname">天猫旗舰店</a></p>
+    <p class="AreaZY">羽西官方旗舰店</p>
+    <p class="t">7小时前</p>
+  </div>
+  <div class="clear"></div>
+</div><div class="bjlineSmall singlebj bj_804765430" skuid="520166171671_3581369866384" hj="1" v='{"bjid":804765430,"sitename":"天猫旗舰店","price":"175.00"}'>
+  <div class="pic"><a class="shenqingGY"  href="http://item.tmall.com/item.htm?id=520166171671"  isconvert="1" biz-itemid="520166171671" target="_blank"><img onerror="this.src='http://misc.manmanbuy.com/images/none.gif'"  src="//img.alicdn.com/tfscom/i1/1653734047/TB1wG6imuuSBuNjSsplXXbe8pXa_!!0-item_pic.jpg_220x220.jpg" /></a></div>
+  <div class="title">
+    <div class="t"><a class="shenqingGY"  href="http://item.tmall.com/item.htm?id=520166171671"  isconvert="1" biz-itemid="520166171671" target="_blank" class="f12sc">倩碧<font class="spnamehighword">口红</font> 甜心撞色小方唇膏 持久不脱色双唇清爽</a> <span> <span class="priceyouhui"></span></span></div>
+<div class="addfav"><a v="favPrice&bjid=804765430&url=http%3a%2f%2fitem.tmall.com%2fitem.htm%3fid%3d520166171671" class="iframefav" href="#iframemain"><i></i>收藏&降价通知</a></div>
+    
+  </div>
+  <div class="cost">
+    <div class="p AreaPrice"><em>&yen;</em><span class="listpricespan">175.0</span><span class="poptrend"><a href="http://tool.manmanbuy.com/historyLowest.aspx?url=http%3a%2f%2fitem.tmall.com%2fitem.htm%3fid%3d520166171671" target="_blank" class="f12sc"><img width="16px" height="14px" src="http://misc.manmanbuy.com/images/trendx2.png" border="0" alt="点击查看该商品的走势图"></a></span></div>
+   <font class='pricedanjia'></font><div class="mobprice"></div>
+   <div class="wxprice"></div>
+   <div class="youhuiinfo"></div>
+   <div style="width:120px"><span style="color:#FF5600;"></span></div>
+  </div>
+  <div class="comment">有<a href="http://item.tmall.com/item.htm?id=520166171671"  isconvert="1" biz-itemid="520166171671"  target="_blank" class="f12sc">7902</a>人评论 </div>
+  <div class="mall">
+    <p class="m"><img src="http://sf.manmanbuy.com/images/sitelogo/278.png" align="absmiddle" alt="天猫旗舰店的报价" /> <a class="shenqingGY"  href="http://item.tmall.com/item.htm?id=520166171671"  isconvert="1" biz-itemid="520166171671" target="_blank" class="f14proname">天猫旗舰店</a></p>
+    <p class="AreaZY">Clinique倩碧官方旗舰店</p>
+    <p class="t">5小时前</p>
+  </div>
+  <div class="clear"></div>
+</div><div class="bjlineSmall singlebj bj_937657601" skuid="557592761075_3483125941276" hj="1" v='{"bjid":937657601,"sitename":"天猫旗舰店","price":"178.00"}'>
+  <div class="pic"><a class="shenqingGY"  href="http://item.tmall.com/item.htm?id=557592761075"  isconvert="1" biz-itemid="557592761075" target="_blank"><img onerror="this.src='http://misc.manmanbuy.com/images/none.gif'"  src="//img.alicdn.com/tfscom/i2/1103226398/TB1xrfie3KTBuNkSne1XXaJoXXa_!!0-item_pic.jpg_220x220.jpg" /></a></div>
+  <div class="title">
+    <div class="t"><a class="shenqingGY"  href="http://item.tmall.com/item.htm?id=557592761075"  isconvert="1" biz-itemid="557592761075" target="_blank" class="f12sc">娥佩兰莹润滋养<font class="spnamehighword">口红</font>官方正品日本进口原料保湿滋润唇膏<font class="spnamehighword">口红</font>套装</a> <span> <span class="priceyouhui"></span></span></div>
+<div class="addfav"><a v="favPrice&bjid=937657601&url=http%3a%2f%2fitem.tmall.com%2fitem.htm%3fid%3d557592761075" class="iframefav" href="#iframemain"><i></i>收藏&降价通知</a></div>
+    
+  </div>
+  <div class="cost">
+    <div class="p AreaPrice"><em>&yen;</em><span class="listpricespan">178.0</span><span class="poptrend"><a href="http://tool.manmanbuy.com/historyLowest.aspx?url=http%3a%2f%2fitem.tmall.com%2fitem.htm%3fid%3d557592761075" target="_blank" class="f12sc"><img width="16px" height="14px" src="http://misc.manmanbuy.com/images/trendx2.png" border="0" alt="点击查看该商品的走势图"></a></span></div>
+   <font class='pricedanjia'></font><div class="mobprice"></div>
+   <div class="wxprice"></div>
+   <div class="youhuiinfo"></div>
+   <div style="width:120px"><span style="color:#FF5600;"></span></div>
+  </div>
+  <div class="comment">有<a href="http://item.tmall.com/item.htm?id=557592761075"  isconvert="1" biz-itemid="557592761075"  target="_blank" class="f12sc">44</a>人评论 </div>
+  <div class="mall">
+    <p class="m"><img src="http://sf.manmanbuy.com/images/sitelogo/278.png" align="absmiddle" alt="天猫旗舰店的报价" /> <a class="shenqingGY"  href="http://item.tmall.com/item.htm?id=557592761075"  isconvert="1" biz-itemid="557592761075" target="_blank" class="f14proname">天猫旗舰店</a></p>
+    <p class="AreaZY">娥佩兰旗舰店</p>
+    <p class="t">3小时前</p>
+  </div>
+  <div class="clear"></div>
+</div><div class="bjlineSmall singlebj bj_881542269" skuid="525005374335_3124712581370" hj="0" v='{"bjid":881542269,"sitename":"天猫旗舰店","price":"210.00"}'>
+  <div class="pic"><a class="shenqingGY"  href="http://item.tmall.com/item.htm?id=525005374335"  isconvert="1" biz-itemid="525005374335" target="_blank"><img onerror="this.src='http://misc.manmanbuy.com/images/none.gif'"  src="//img.alicdn.com/tfscom/i1/1818112088/TB1zolMd_CWBKNjSZFtXXaC3FXa_!!0-item_pic.jpg_220x220.jpg" /></a></div>
+  <div class="title">
+    <div class="t"><a class="shenqingGY"  href="http://item.tmall.com/item.htm?id=525005374335"  isconvert="1" biz-itemid="525005374335" target="_blank" class="f12sc">伊丽莎白雅顿 星幻唇膏3.5g <font class="spnamehighword">口红</font>唇彩保湿滋润修护润色彩妆</a> <span> <span class="priceyouhui"></span></span></div>
+<div class="addfav"><a v="favPrice&bjid=881542269&url=http%3a%2f%2fitem.tmall.com%2fitem.htm%3fid%3d525005374335" class="iframefav" href="#iframemain"><i></i>收藏&降价通知</a></div>
+    
+  </div>
+  <div class="cost">
+    <div class="p AreaPrice"><em>&yen;</em><span class="listpricespan">210.0</span><span class="poptrend"><a href="http://tool.manmanbuy.com/historyLowest.aspx?url=http%3a%2f%2fitem.tmall.com%2fitem.htm%3fid%3d525005374335" target="_blank" class="f12sc"><img width="16px" height="14px" src="http://misc.manmanbuy.com/images/trendx2.png" border="0" alt="点击查看该商品的走势图"></a></span></div>
+   <font class='pricedanjia'></font><div class="mobprice"></div>
+   <div class="wxprice"></div>
+   <div class="youhuiinfo"></div>
+   <div style="width:120px"><span style="color:#FF5600;"></span></div>
+  </div>
+  <div class="comment">有<a href="http://item.tmall.com/item.htm?id=525005374335"  isconvert="1" biz-itemid="525005374335"  target="_blank" class="f12sc">303</a>人评论 </div>
+  <div class="mall">
+    <p class="m"><img src="http://sf.manmanbuy.com/images/sitelogo/278.png" align="absmiddle" alt="天猫旗舰店的报价" /> <a class="shenqingGY"  href="http://item.tmall.com/item.htm?id=525005374335"  isconvert="1" biz-itemid="525005374335" target="_blank" class="f14proname">天猫旗舰店</a></p>
+    <p class="AreaZY">伊丽莎白雅顿官方旗舰店</p>
+    <p class="t">4小时前</p>
+  </div>
+  <div class="clear"></div>
+</div><div class="bjlineSmall singlebj bj_708784980" skuid="528254521607_3144305202103" hj="0" v='{"bjid":708784980,"sitename":"天猫旗舰店","price":"230.00"}'>
+  <div class="pic"><a class="shenqingGY"  href="http://item.tmall.com/item.htm?id=528254521607"  isconvert="1" biz-itemid="528254521607" target="_blank"><img onerror="this.src='http://misc.manmanbuy.com/images/none.gif'"  src="//img.alicdn.com/tfscom/i4/2820842454/TB1KdIlobsTMeJjy1zcXXXAgXXa_!!0-item_pic.jpg_220x220.jpg" /></a></div>
+  <div class="title">
+    <div class="t"><a class="shenqingGY"  href="http://item.tmall.com/item.htm?id=528254521607"  isconvert="1" biz-itemid="528254521607" target="_blank" class="f12sc">shu uemura植村秀无色限漆光唇釉<font class="spnamehighword">口红</font>唇彩染唇液唇蜜 黑管正品</a> <span> <span class="priceyouhui"></span></span></div>
+<div class="addfav"><a v="favPrice&bjid=708784980&url=http%3a%2f%2fitem.tmall.com%2fitem.htm%3fid%3d528254521607" class="iframefav" href="#iframemain"><i></i>收藏&降价通知</a></div>
+    
+  </div>
+  <div class="cost">
+    <div class="p AreaPrice"><em>&yen;</em><span class="listpricespan">230.0</span><span class="poptrend"><a href="http://tool.manmanbuy.com/historyLowest.aspx?url=http%3a%2f%2fitem.tmall.com%2fitem.htm%3fid%3d528254521607" target="_blank" class="f12sc"><img width="16px" height="14px" src="http://misc.manmanbuy.com/images/trendx2.png" border="0" alt="点击查看该商品的走势图"></a></span></div>
+   <font class='pricedanjia'></font><div class="mobprice"></div>
+   <div class="wxprice"></div>
+   <div class="youhuiinfo"></div>
+   <div style="width:120px"><span style="color:#FF5600;"></span></div>
+  </div>
+  <div class="comment">有<a href="http://item.tmall.com/item.htm?id=528254521607"  isconvert="1" biz-itemid="528254521607"  target="_blank" class="f12sc">802</a>人评论 </div>
+  <div class="mall">
+    <p class="m"><img src="http://sf.manmanbuy.com/images/sitelogo/278.png" align="absmiddle" alt="天猫旗舰店的报价" /> <a class="shenqingGY"  href="http://item.tmall.com/item.htm?id=528254521607"  isconvert="1" biz-itemid="528254521607" target="_blank" class="f14proname">天猫旗舰店</a></p>
+    <p class="AreaZY">shu uemura植村秀官方旗舰店</p>
+    <p class="t">7小时前</p>
+  </div>
+  <div class="clear"></div>
+</div><div class="bjlineSmall singlebj bj_889041048" skuid="557042829371_3616026398012" hj="0" v='{"bjid":889041048,"sitename":"天猫旗舰店","price":"240.00"}'>
+  <div class="pic"><a class="shenqingGY"  href="http://item.tmall.com/item.htm?id=557042829371"  isconvert="1" biz-itemid="557042829371" target="_blank"><img onerror="this.src='http://misc.manmanbuy.com/images/none.gif'"  src="//img.alicdn.com/tfscom/i1/2563613536/TB1_ochidfJ8KJjy0FeXXXKEXXa_!!0-item_pic.jpg_220x220.jpg" /></a></div>
+  <div class="title">
+    <div class="t"><a class="shenqingGY"  href="http://item.tmall.com/item.htm?id=557042829371"  isconvert="1" biz-itemid="557042829371" target="_blank" class="f12sc">BOBBI BROWN芭比波朗豆沙色<font class="spnamehighword">口红</font>哑光唇釉 不脱色持久保湿染唇液</a> <span> <span class="priceyouhui"></span></span></div>
+<div class="addfav"><a v="favPrice&bjid=889041048&url=http%3a%2f%2fitem.tmall.com%2fitem.htm%3fid%3d557042829371" class="iframefav" href="#iframemain"><i></i>收藏&降价通知</a></div>
+    
+  </div>
+  <div class="cost">
+    <div class="p AreaPrice"><em>&yen;</em><span class="listpricespan">240.0</span><span class="poptrend"><a href="http://tool.manmanbuy.com/historyLowest.aspx?url=http%3a%2f%2fitem.tmall.com%2fitem.htm%3fid%3d557042829371" target="_blank" class="f12sc"><img width="16px" height="14px" src="http://misc.manmanbuy.com/images/trendx2.png" border="0" alt="点击查看该商品的走势图"></a></span></div>
+   <font class='pricedanjia'></font><div class="mobprice"></div>
+   <div class="wxprice"></div>
+   <div class="youhuiinfo"></div>
+   <div style="width:120px"><span style="color:#FF5600;"></span></div>
+  </div>
+  <div class="comment">有<a href="http://item.tmall.com/item.htm?id=557042829371"  isconvert="1" biz-itemid="557042829371"  target="_blank" class="f12sc">31</a>人评论 </div>
+  <div class="mall">
+    <p class="m"><img src="http://sf.manmanbuy.com/images/sitelogo/278.png" align="absmiddle" alt="天猫旗舰店的报价" /> <a class="shenqingGY"  href="http://item.tmall.com/item.htm?id=557042829371"  isconvert="1" biz-itemid="557042829371" target="_blank" class="f14proname">天猫旗舰店</a></p>
+    <p class="AreaZY">BOBBI BROWN芭比波朗官方旗舰店</p>
+    <p class="t">4小时前</p>
+  </div>
+  <div class="clear"></div>
+</div><div class="bjlineSmall singlebj bj_991206718" skuid="4971617" hj="0" v='{"bjid":991206718,"sitename":"京东商城","price":"49.00"}'>
+  <div class="pic"><a class="shenqingGY"  href="http://www.manmanbuy.com/redirectUrl.aspx?bjid=991206718&y=search" target="_blank"><img onerror="this.src='http://misc.manmanbuy.com/images/none.gif'"  src="http://img12.360buyimg.com/n7/jfs/t9064/293/688585694/522379/6e89d3b8/59ad21abN1a39c151.jpg" /></a></div>
+  <div class="title">
+    <div class="t"><a class="shenqingGY"  href="http://www.manmanbuy.com/redirectUrl.aspx?bjid=991206718&y=search" target="_blank" class="f12sc">Vilscijon维简亚克力化妆品收纳盒创意大号桌面整理盒首饰品<font class="spnamehighword">口红</font>亚克力化妆盒透明 2230</a> <span> <span class="priceyouhui"></span></span></div>
+<div class="addfav"><a v="favPrice&bjid=991206718" class="iframefav" href="#iframemain"><i></i>收藏&降价通知</a></div>
+    
+  </div>
+  <div class="cost">
+    <div class="p AreaPrice"><em>&yen;</em><span class="listpricespan">49.0</span><span class="poptrend"><a href="http://www.manmanbuy.com/disSitePro.aspx?bjid=991206718&ack=history" v="991206718" target="_blank"><img width="16px" height="14px" src="http://misc.manmanbuy.com/images/trendx2.png" border="0" alt="点击查看该商品的走势图"></a></span></div>
+   <font class='pricedanjia'></font><div class="mobprice"></div>
+   <div class="wxprice"></div>
+   <div class="youhuiinfo"></div>
+   <div style="width:120px"><span style="color:#FF5600;"></span></div>
+  </div>
+  <div class="comment">有<a href="http://www.manmanbuy.com/redirectUrl.aspx?bjid=991206718&y=search"  target="_blank" class="f12sc">12016</a>人评论 </div>
+  <div class="mall">
+    <p class="m"><img src="http://sf.manmanbuy.com/images/sitelogo/1.png" align="absmiddle" alt="京东商城的报价" /> <a class="shenqingGY"  href="http://www.manmanbuy.com/redirectUrl.aspx?bjid=991206718&y=search" target="_blank" class="f14proname">京东商城</a></p>
+    <p class="AreaZY">自营</p>
+    <p class="t">6小时前</p>
+  </div>
+  <div class="clear"></div>
+</div><div class="bjlineSmall singlebj bj_811304111" skuid="528095277073_3144821462968" hj="0" v='{"bjid":811304111,"sitename":"天猫旗舰店","price":"300.00"}'>
+  <div class="pic"><a class="shenqingGY"  href="http://item.tmall.com/item.htm?id=528095277073&skuId=3144821462968"  isconvert="1" biz-itemid="528095277073" target="_blank"><img onerror="this.src='http://misc.manmanbuy.com/images/none.gif'"  src="//img.alicdn.com/tfscom/i3/2563613536/TB1sT6div5TBuNjSspmXXaDRVXa_!!0-item_pic.jpg_220x220.jpg" /></a></div>
+  <div class="title">
+    <div class="t"><a class="shenqingGY"  href="http://item.tmall.com/item.htm?id=528095277073&skuId=3144821462968"  isconvert="1" biz-itemid="528095277073" target="_blank" class="f12sc">BOBBIBROWN芭比波朗金管唇膏持久保湿不脱色豆沙色枫叶色正品<font class="spnamehighword">口红</font></a> <span> <span class="priceyouhui"></span></span></div>
+<div class="addfav"><a v="favPrice&bjid=811304111&url=http%3a%2f%2fitem.tmall.com%2fitem.htm%3fid%3d528095277073%26skuId%3d3144821462968" class="iframefav" href="#iframemain"><i></i>收藏&降价通知</a></div>
+    
+  </div>
+  <div class="cost">
+    <div class="p AreaPrice"><em>&yen;</em><span class="listpricespan">300.0</span><span class="poptrend"><a href="http://tool.manmanbuy.com/historyLowest.aspx?url=http%3a%2f%2fitem.tmall.com%2fitem.htm%3fid%3d528095277073%26skuId%3d3144821462968" target="_blank" class="f12sc"><img width="16px" height="14px" src="http://misc.manmanbuy.com/images/trendx2.png" border="0" alt="点击查看该商品的走势图"></a></span></div>
+   <font class='pricedanjia'></font><div class="mobprice"></div>
+   <div class="wxprice"></div>
+   <div class="youhuiinfo"></div>
+   <div style="width:120px"><span style="color:#FF5600;"></span></div>
+  </div>
+  <div class="comment">有<a href="http://item.tmall.com/item.htm?id=528095277073&skuId=3144821462968"  isconvert="1" biz-itemid="528095277073"  target="_blank" class="f12sc">7046</a>人评论 </div>
+  <div class="mall">
+    <p class="m"><img src="http://sf.manmanbuy.com/images/sitelogo/278.png" align="absmiddle" alt="天猫旗舰店的报价" /> <a class="shenqingGY"  href="http://item.tmall.com/item.htm?id=528095277073&skuId=3144821462968"  isconvert="1" biz-itemid="528095277073" target="_blank" class="f14proname">天猫旗舰店</a></p>
+    <p class="AreaZY">BOBBI BROWN芭比波朗官方旗舰店</p>
+    <p class="t">5小时前</p>
+  </div>
+  <div class="clear"></div>
+</div><div class="bjlineSmall singlebj bj_628193230" skuid="44320295982_80428398008" hj="0" v='{"bjid":628193230,"sitename":"天猫旗舰店","price":"315.00"}'>
+  <div class="pic"><a class="shenqingGY"  href="http://item.tmall.com/item.htm?id=44320295982"  isconvert="1" biz-itemid="44320295982" target="_blank"><img onerror="this.src='http://misc.manmanbuy.com/images/none.gif'"  src="//img.alicdn.com/tfscom/i1/2029314557/TB1l2PVcE4WMKJjSspmXXcznpXa_!!0-item_pic.jpg_220x220.jpg" /></a></div>
+  <div class="title">
+    <div class="t"><a class="shenqingGY"  href="http://item.tmall.com/item.htm?id=44320295982"  isconvert="1" biz-itemid="44320295982" target="_blank" class="f12sc">Whoo后<font class="spnamehighword">口红</font> 拱辰享美奢华唇膏3.5g 滋润显色 不易脱妆 官方直售</a> <span> <span class="priceyouhui"></span></span></div>
+<div class="addfav"><a v="favPrice&bjid=628193230&url=http%3a%2f%2fitem.tmall.com%2fitem.htm%3fid%3d44320295982" class="iframefav" href="#iframemain"><i></i>收藏&降价通知</a></div>
+    
+  </div>
+  <div class="cost">
+    <div class="p AreaPrice"><em>&yen;</em><span class="listpricespan">315.0</span><span class="poptrend"><a href="http://tool.manmanbuy.com/historyLowest.aspx?url=http%3a%2f%2fitem.tmall.com%2fitem.htm%3fid%3d44320295982" target="_blank" class="f12sc"><img width="16px" height="14px" src="http://misc.manmanbuy.com/images/trendx2.png" border="0" alt="点击查看该商品的走势图"></a></span></div>
+   <font class='pricedanjia'></font><div class="mobprice"></div>
+   <div class="wxprice"></div>
+   <div class="youhuiinfo"></div>
+   <div style="width:120px"><span style="color:#FF5600;"></span></div>
+  </div>
+  <div class="comment">有<a href="http://item.tmall.com/item.htm?id=44320295982"  isconvert="1" biz-itemid="44320295982"  target="_blank" class="f12sc">1776</a>人评论 </div>
+  <div class="mall">
+    <p class="m"><img src="http://sf.manmanbuy.com/images/sitelogo/278.png" align="absmiddle" alt="天猫旗舰店的报价" /> <a class="shenqingGY"  href="http://item.tmall.com/item.htm?id=44320295982"  isconvert="1" biz-itemid="44320295982" target="_blank" class="f14proname">天猫旗舰店</a></p>
+    <p class="AreaZY">后官方旗舰店</p>
+    <p class="t">7小时前</p>
+  </div>
+  <div class="clear"></div>
+</div><div class="bjlineSmall singlebj bj_845742378" skuid="532550658922_3588552239570" hj="1" v='{"bjid":845742378,"sitename":"天猫旗舰店","price":"9.90"}'>
+  <div class="pic"><a class="shenqingGY"  href="http://item.tmall.com/item.htm?id=532550658922"  isconvert="1" biz-itemid="532550658922" target="_blank"><img onerror="this.src='http://misc.manmanbuy.com/images/none.gif'"  src="//img.alicdn.com/tfscom/i3/2258006982/TB17eIGcJknBKNjSZKPXXX6OFXa_!!0-item_pic.jpg_220x220.jpg" /></a></div>
+  <div class="title">
+    <div class="t"><a class="shenqingGY"  href="http://item.tmall.com/item.htm?id=532550658922"  isconvert="1" biz-itemid="532550658922" target="_blank" class="f12sc">2盒<font class="spnamehighword">口红</font>持久保湿不脱色防水果冻变色唇膏韩国学生款可爱小样套装</a> <span> <span class="priceyouhui"></span></span></div>
+<div class="addfav"><a v="favPrice&bjid=845742378&url=http%3a%2f%2fitem.tmall.com%2fitem.htm%3fid%3d532550658922" class="iframefav" href="#iframemain"><i></i>收藏&降价通知</a></div>
+    
+  </div>
+  <div class="cost">
+    <div class="p AreaPrice"><em>&yen;</em><span class="listpricespan">9.90</span><span class="poptrend"><a href="http://tool.manmanbuy.com/historyLowest.aspx?url=http%3a%2f%2fitem.tmall.com%2fitem.htm%3fid%3d532550658922" target="_blank" class="f12sc"><img width="16px" height="14px" src="http://misc.manmanbuy.com/images/trendx2.png" border="0" alt="点击查看该商品的走势图"></a></span></div>
+   <font class='pricedanjia'></font><div class="mobprice"></div>
+   <div class="wxprice"></div>
+   <div class="youhuiinfo"></div>
+   <div style="width:120px"><span style="color:#FF5600;"></span></div>
+  </div>
+  <div class="comment">有<a href="http://item.tmall.com/item.htm?id=532550658922"  isconvert="1" biz-itemid="532550658922"  target="_blank" class="f12sc">369492</a>人评论 </div>
+  <div class="mall">
+    <p class="m"><img src="http://sf.manmanbuy.com/images/sitelogo/278.png" align="absmiddle" alt="天猫旗舰店的报价" /> <a class="shenqingGY"  href="http://item.tmall.com/item.htm?id=532550658922"  isconvert="1" biz-itemid="532550658922" target="_blank" class="f14proname">天猫旗舰店</a></p>
+    <p class="AreaZY">健美创研旗舰店</p>
+    <p class="t">4小时前</p>
+  </div>
+  <div class="clear"></div>
+</div><div class="bjlineSmall singlebj bj_823129240" skuid="543240158713_3432263498408" hj="1" v='{"bjid":823129240,"sitename":"天猫旗舰店","price":"9.90"}'>
+  <div class="pic"><a class="shenqingGY"  href="http://item.tmall.com/item.htm?id=543240158713"  isconvert="1" biz-itemid="543240158713" target="_blank"><img onerror="this.src='http://misc.manmanbuy.com/images/none.gif'"  src="//img.alicdn.com/tfscom/i2/1782727258/TB1n.Qod8smBKNjSZFFXXcT9VXa_!!0-item_pic.jpg_220x220.jpg" /></a></div>
+  <div class="title">
+    <div class="t"><a class="shenqingGY"  href="http://item.tmall.com/item.htm?id=543240158713"  isconvert="1" biz-itemid="543240158713" target="_blank" class="f12sc">【2支装】ROZO哑光<font class="spnamehighword">口红</font>套装持久保湿不脱色防水不沾杯正品非韩国</a> <span> <span class="priceyouhui"></span></span></div>
+<div class="addfav"><a v="favPrice&bjid=823129240&url=http%3a%2f%2fitem.tmall.com%2fitem.htm%3fid%3d543240158713" class="iframefav" href="#iframemain"><i></i>收藏&降价通知</a></div>
+    
+  </div>
+  <div class="cost">
+    <div class="p AreaPrice"><em>&yen;</em><span class="listpricespan">9.90</span><span class="poptrend"><a href="http://tool.manmanbuy.com/historyLowest.aspx?url=http%3a%2f%2fitem.tmall.com%2fitem.htm%3fid%3d543240158713" target="_blank" class="f12sc"><img width="16px" height="14px" src="http://misc.manmanbuy.com/images/trendx2.png" border="0" alt="点击查看该商品的走势图"></a></span></div>
+   <font class='pricedanjia'></font><div class="mobprice"></div>
+   <div class="wxprice"></div>
+   <div class="youhuiinfo"></div>
+   <div style="width:120px"><span style="color:#FF5600;"></span></div>
+  </div>
+  <div class="comment">有<a href="http://item.tmall.com/item.htm?id=543240158713"  isconvert="1" biz-itemid="543240158713"  target="_blank" class="f12sc">3790</a>人评论 </div>
+  <div class="mall">
+    <p class="m"><img src="http://sf.manmanbuy.com/images/sitelogo/278.png" align="absmiddle" alt="天猫旗舰店的报价" /> <a class="shenqingGY"  href="http://item.tmall.com/item.htm?id=543240158713"  isconvert="1" biz-itemid="543240158713" target="_blank" class="f14proname">天猫旗舰店</a></p>
+    <p class="AreaZY">rozo旗舰店</p>
+    <p class="t">5小时前</p>
+  </div>
+  <div class="clear"></div>
+</div><div class="bjlineSmall singlebj bj_878495166" skuid="540184409849_3202600459127" hj="0" v='{"bjid":878495166,"sitename":"天猫旗舰店","price":"18.90"}'>
+  <div class="pic"><a class="shenqingGY"  href="http://item.tmall.com/item.htm?id=540184409849"  isconvert="1" biz-itemid="540184409849" target="_blank"><img onerror="this.src='http://misc.manmanbuy.com/images/none.gif'"  src="//img.alicdn.com/tfscom/i3/2894293278/TB1PfE5kbGYBuNjy0FoXXciBFXa_!!0-item_pic.jpg_220x220.jpg" /></a></div>
+  <div class="title">
+    <div class="t"><a class="shenqingGY"  href="http://item.tmall.com/item.htm?id=540184409849"  isconvert="1" biz-itemid="540184409849" target="_blank" class="f12sc">卡奈姿维他命<font class="spnamehighword">口红</font>正品持久保湿不易脱色不沾杯豆沙姨妈南瓜学生款</a> <span> <span class="priceyouhui"></span></span></div>
+<div class="addfav"><a v="favPrice&bjid=878495166&url=http%3a%2f%2fitem.tmall.com%2fitem.htm%3fid%3d540184409849" class="iframefav" href="#iframemain"><i></i>收藏&降价通知</a></div>
+    
+  </div>
+  <div class="cost">
+    <div class="p AreaPrice"><em>&yen;</em><span class="listpricespan">18.90</span><span class="poptrend"><a href="http://tool.manmanbuy.com/historyLowest.aspx?url=http%3a%2f%2fitem.tmall.com%2fitem.htm%3fid%3d540184409849" target="_blank" class="f12sc"><img width="16px" height="14px" src="http://misc.manmanbuy.com/images/trendx2.png" border="0" alt="点击查看该商品的走势图"></a></span></div>
+   <font class='pricedanjia'></font><div class="mobprice"></div>
+   <div class="wxprice"></div>
+   <div class="youhuiinfo"></div>
+   <div style="width:120px"><span style="color:#FF5600;"></span></div>
+  </div>
+  <div class="comment">有<a href="http://item.tmall.com/item.htm?id=540184409849"  isconvert="1" biz-itemid="540184409849"  target="_blank" class="f12sc">371553</a>人评论 </div>
+  <div class="mall">
+    <p class="m"><img src="http://sf.manmanbuy.com/images/sitelogo/278.png" align="absmiddle" alt="天猫旗舰店的报价" /> <a class="shenqingGY"  href="http://item.tmall.com/item.htm?id=540184409849"  isconvert="1" biz-itemid="540184409849" target="_blank" class="f14proname">天猫旗舰店</a></p>
+    <p class="AreaZY">卡奈姿旗舰店</p>
+    <p class="t">4小时前</p>
+  </div>
+  <div class="clear"></div>
+</div><div class="bjlineSmall singlebj bj_903842580" skuid="527284184837_3137252734245" hj="0" v='{"bjid":903842580,"sitename":"天猫旗舰店","price":"29.00"}'>
+  <div class="pic"><a class="shenqingGY"  href="http://item.tmall.com/item.htm?id=527284184837"  isconvert="1" biz-itemid="527284184837" target="_blank"><img onerror="this.src='http://misc.manmanbuy.com/images/none.gif'"  src="//img.alicdn.com/tfscom/i2/191008125/TB1Ah82nKuSBuNjSsplXXbe8pXa_!!0-item_pic.jpg_220x220.jpg" /></a></div>
+  <div class="title">
+    <div class="t"><a class="shenqingGY"  href="http://item.tmall.com/item.htm?id=527284184837"  isconvert="1" biz-itemid="527284184837" target="_blank" class="f12sc">美康粉黛雾面丝绒<font class="spnamehighword">口红</font> 持久保湿滋润防水豆沙色哑光唇膏孕妇可用</a> <span> <span class="priceyouhui"></span></span></div>
+<div class="addfav"><a v="favPrice&bjid=903842580&url=http%3a%2f%2fitem.tmall.com%2fitem.htm%3fid%3d527284184837" class="iframefav" href="#iframemain"><i></i>收藏&降价通知</a></div>
+    
+  </div>
+  <div class="cost">
+    <div class="p AreaPrice"><em>&yen;</em><span class="listpricespan">29.0</span><span class="poptrend"><a href="http://tool.manmanbuy.com/historyLowest.aspx?url=http%3a%2f%2fitem.tmall.com%2fitem.htm%3fid%3d527284184837" target="_blank" class="f12sc"><img width="16px" height="14px" src="http://misc.manmanbuy.com/images/trendx2.png" border="0" alt="点击查看该商品的走势图"></a></span></div>
+   <font class='pricedanjia'></font><div class="mobprice"></div>
+   <div class="wxprice"></div>
+   <div class="youhuiinfo"></div>
+   <div style="width:120px"><span style="color:#FF5600;"></span></div>
+  </div>
+  <div class="comment">有<a href="http://item.tmall.com/item.htm?id=527284184837"  isconvert="1" biz-itemid="527284184837"  target="_blank" class="f12sc">204582</a>人评论 </div>
+  <div class="mall">
+    <p class="m"><img src="http://sf.manmanbuy.com/images/sitelogo/278.png" align="absmiddle" alt="天猫旗舰店的报价" /> <a class="shenqingGY"  href="http://item.tmall.com/item.htm?id=527284184837"  isconvert="1" biz-itemid="527284184837" target="_blank" class="f14proname">天猫旗舰店</a></p>
+    <p class="AreaZY">美康粉黛旗舰店</p>
+    <p class="t">4小时前</p>
+  </div>
+  <div class="clear"></div>
+</div><div class="bjlineSmall singlebj bj_710538148" skuid="546465126168_3467063942292" hj="0" v='{"bjid":710538148,"sitename":"天猫旗舰店","price":"58.00"}'>
+  <div class="pic"><a class="shenqingGY"  href="http://item.tmall.com/item.htm?id=546465126168"  isconvert="1" biz-itemid="546465126168" target="_blank"><img onerror="this.src='http://misc.manmanbuy.com/images/none.gif'"  src="//img.alicdn.com/tfscom/i2/435876330/TB1mH5EnAOWBuNjSsppXXXPgpXa_!!0-item_pic.jpg_220x220.jpg" /></a></div>
+  <div class="title">
+    <div class="t"><a class="shenqingGY"  href="http://item.tmall.com/item.htm?id=546465126168"  isconvert="1" biz-itemid="546465126168" target="_blank" class="f12sc">The Face Shop 水润触感唇膏 保湿滋润女豆沙色西柚色<font class="spnamehighword">口红</font>正品</a> <span> <span class="priceyouhui"></span></span></div>
+<div class="addfav"><a v="favPrice&bjid=710538148&url=http%3a%2f%2fitem.tmall.com%2fitem.htm%3fid%3d546465126168" class="iframefav" href="#iframemain"><i></i>收藏&降价通知</a></div>
+    
+  </div>
+  <div class="cost">
+    <div class="p AreaPrice"><em>&yen;</em><span class="listpricespan">58.0</span><span class="poptrend"><a href="http://tool.manmanbuy.com/historyLowest.aspx?url=http%3a%2f%2fitem.tmall.com%2fitem.htm%3fid%3d546465126168" target="_blank" class="f12sc"><img width="16px" height="14px" src="http://misc.manmanbuy.com/images/trendx2.png" border="0" alt="点击查看该商品的走势图"></a></span></div>
+   <font class='pricedanjia'></font><div class="mobprice"></div>
+   <div class="wxprice"></div>
+   <div class="youhuiinfo"></div>
+   <div style="width:120px"><span style="color:#FF5600;"></span></div>
+  </div>
+  <div class="comment">有<a href="http://item.tmall.com/item.htm?id=546465126168"  isconvert="1" biz-itemid="546465126168"  target="_blank" class="f12sc">640</a>人评论 </div>
+  <div class="mall">
+    <p class="m"><img src="http://sf.manmanbuy.com/images/sitelogo/278.png" align="absmiddle" alt="天猫旗舰店的报价" /> <a class="shenqingGY"  href="http://item.tmall.com/item.htm?id=546465126168"  isconvert="1" biz-itemid="546465126168" target="_blank" class="f14proname">天猫旗舰店</a></p>
+    <p class="AreaZY">The Face Shop化妆品官方旗舰店</p>
+    <p class="t">7小时前</p>
+  </div>
+  <div class="clear"></div>
+</div><div id="showTB"></div><input type="hidden" id="hid_proziying" value='{"siteCount":2,"zyCount":28,"dsfCount":0}' />   <script type="text/javascript" src="/JS/MMBSearchArea.js"></script><div class='clear'></div></div></div></div></div><div class="dispagediv" id="dispage">共有45621条记录  当前为<font color=red>2</font>/1630页，每页28条记录 &nbsp; <a href=Default.aspx?PageID=1&smallclass=0&ppid=0&siteid=&searchmode=0&f1=0&f2=0&f3=0&f4=0&f5=0&f6=0&price1=0&price2=0&orderby=score&iszy=0&istmall=0&zdj=0&key=%bf%da%ba%ec&v=&k=&min=&max=&w=&w2=&ft=&ft2=&distype=0>首页</a>&nbsp; <a href=Default.aspx?PageID=1&smallclass=0&ppid=0&siteid=&searchmode=0&f1=0&f2=0&f3=0&f4=0&f5=0&f6=0&price1=0&price2=0&orderby=score&iszy=0&istmall=0&zdj=0&key=%bf%da%ba%ec&v=&k=&min=&max=&w=&w2=&ft=&ft2=&distype=0>上一页</a>&nbsp; <a href=Default.aspx?PageID=3&smallclass=0&ppid=0&siteid=&searchmode=0&f1=0&f2=0&f3=0&f4=0&f5=0&f6=0&price1=0&price2=0&orderby=score&iszy=0&istmall=0&zdj=0&key=%bf%da%ba%ec&v=&k=&min=&max=&w=&w2=&ft=&ft2=&distype=0>下一页</a>&nbsp; <a href=Default.aspx?PageID=1630&smallclass=0&ppid=0&siteid=&searchmode=0&f1=0&f2=0&f3=0&f4=0&f5=0&f6=0&price1=0&price2=0&orderby=score&iszy=0&istmall=0&zdj=0&key=%bf%da%ba%ec&v=&k=&min=&max=&w=&w2=&ft=&ft2=&distype=0>末页</a>&nbsp; 跳转:<input type=text size=2 id=pagenum name=pagenum><input type='button' value='跳转' onclick="location.href='Default.aspx?PageID='+document.getElementById('pagenum').value+'&smallclass=0&ppid=0&siteid=&searchmode=0&f1=0&f2=0&f3=0&f4=0&f5=0&f6=0&price1=0&price2=0&orderby=score&iszy=0&istmall=0&zdj=0&key=%bf%da%ba%ec&v=&k=&min=&max=&w=&w2=&ft=&ft2=&distype=0'"></div>
+ <script type="text/javascript">
+    $(document).ready(function () {
+        $('.feedback-box .bd .contact input').focus(function () {
+            this.style.color = '#A9A9A9';
+        }).blur(function () {
+            if (this.value == '') {
+                this.value = '您的联系方式：QQ/邮箱';
+            }
+            this.style.color = '#A9A9A9';
+        }).click(function () {
+            if (this.value == '您的联系方式：QQ/邮箱') {
+                this.value = ''
+            }
+            this.style.color = '#000';
+        }).keydown(function () {
+            if (this.value == '您的联系方式：QQ/邮箱') {
+                this.value = ''
+            }
+            this.style.color = '#000';
+        })
+
+        var y = '可以的话，再跟我们说说让您满意的地方，或者还有哪里可以做得更好。也可以直接提交。';
+        var x = '建议您把遇到的问题具体描述一下，方便我们进行评估和改进。或者联系搜索专员 QQ：3004199395';
+        $(".feedback-box .hd a.yes-all").click(function () {
+            setpj(1);
+            $(".feedback-box .hd a.yes-all i").removeClass('disabledYES');
+            $(".feedback-box .hd a .yes").removeClass('yes-on');
+            $(".feedback-box .hd a .no").removeClass('no-on');
+            $(".feedback-box .hd a .yes").addClass('yes-on');
+            $(".feedback-box .hd .no-all i").addClass('disabledNO');
+            $('.feedback-box .bd textarea').val(y);
+
+            $('.feedback-box .bd textarea').focus(function () {
+                $(this).css('color', '#A9A9A9');
+            }).blur(function () {
+                if ($(this).val() == '' && $(".feedback-box .hd a .yes").hasClass('yes-on')) {
+                    $(this).val(y);
+                }
+                $(this).css('color', '#A9A9A9');
+            }).click(function () {
+                if ($(this).val() == y) {
+                    $(this).val('');
+                }
+                $(this).css('color', '#000000');
+            }).keydown(function () {
+                if ($(this).val() == y) {
+                    $(this).val('');
+                }
+                $(this).css('color', '#000000');
+            });
+
+            $(".feedback-box .bd").show();
+        });
+
+        $(".feedback-box .hd a.no-all").click(function () {
+            setpj(0);
+            $(".feedback-box .hd a.no-all i").removeClass('disabledNO');
+            $(".feedback-box .hd a .yes").removeClass('yes-on');
+            $(".feedback-box .hd a .no").removeClass('no-on');
+            $(".feedback-box .hd a .no").addClass('no-on');
+            $(".feedback-box .hd .yes-all i").addClass('disabledYES');
+            $('.feedback-box .bd textarea').val(x);
+            $('.feedback-box .bd textarea').focus(function () {
+                $(this).css('color', '#A9A9A9');
+                $(this).addClass
+            }).blur(function () {
+                if ($(this).val() == '' && $(".feedback-box .hd a .no").hasClass('no-on')) {
+                    $(this).val(x);
+                }
+                $(this).css('color', '#A9A9A9');
+            }).click(function () {
+                if ($(this).val() == x) {
+                    $(this).val('');
+                }
+                $(this).css('color', '#000000');
+            }).keydown(function () {
+                if ($(this).val() == x) {
+                    $(this).val('');
+                }
+                $(this).css('color', '#000000');
+            })
+            $(".feedback-box .bd").show();
+        });
+        $(".feedback-box .bd .Submit a").click(function () {
+            setpj2();
+        });
+    });
+
+    function setpj(my) {
+        $.ajax({
+            type: "get", //使用get方法访问后台
+            dataType: "text", //返回text格式的数据
+            url: "ajaxfk.aspx", //要访问的后台地址
+            data: 'ack=fk&my=' + my + '&skey='+$("#skey").val()+'&httpref='+escape(location.href), //要发送的数据
+            success: function (msg) { //xml文档为返回的数据，在这里做数据绑定
+                $("#fkid").val(msg);
+            }
+        });
+    }
+
+    function setpj2() {
+        var fkid = $("#fkid").val();
+        var fktext = $("#bmytext").val();
+        var fkcontact = $(".feedback-box .bd .contact input").val();
+        if(fkcontact == '您的联系方式：QQ/邮箱'){
+            fkcontact='';
+        }
+        $.ajax({
+            type: "get", //使用get方法访问后台
+            dataType: "text", //返回text格式的数据
+            url: "ajaxfk.aspx", //要访问的后台地址
+            data: 'ack=fk2&fkid=' + fkid + '&fktext=' + fktext+'  '+fkcontact, //要发送的数据
+            success: function (msg) { //xml文档为返回的数据，在这里做数据绑定
+                $(".feedback-box .bd").hide();
+                $(".feedback-box").append('<div class="status">非常感谢您宝贵的意见</div>');
+                $(".feedback-box .hd a").unbind('click');
+                $(".feedback-box .hd .no-all").removeAttr('href');
+                $(".feedback-box .hd .yes-all").removeAttr('href');
+            }
+        });
+    }
+</script>
+<div class="feedback-box">
+    <div class="hd"><span>您对这个搜索结果：</span>
+        <a href="javascript:void(0)" class="yes-all"><i class="yes"></i></a>
+        <a href="javascript:void(0)" class="no-all"><i class="no"></i></a>
+    </div>
+    <div class="bd">
+        <input type="hidden" id="fkid">
+        <textarea id="bmytext"></textarea>
+        <div class="contact">
+            <input type="text" name="contact" value="您的联系方式：QQ/邮箱">
+            <div class="Submit"><a href="javascript:void(0)">提交</a></div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+<div style="width: 1000px; margin: 10px 0px; display:none;">
+            
+            
+判断是否允许访问耗时:0;检测用户耗时:0;检测url耗时:0;key:口红;初始化前耗时:0;初始化耗时详细:搜索词处理耗时:0;访问京东耗时：:0ms 搜TB前耗时：0.00s.搜产品前耗时：0.00s.搜报价前耗时：0.00s.报价搜索结束耗时：0.02s.搜索报价时间，其中hubble时间和代码：判断是否有缓存耗时：0.调用SearchBackDS耗时：0.00判断是否有缓存耗时：0.datatable转化list耗时：0.00.再排序优化耗时：0.00搜索总时间：0.01处理品牌：0.01搜索后处理时间：0.00 耗时：17ms 全部搜索结束耗时：0.02s. 所有筛选转化结束耗时--商城：0.02s. 所有筛选转化结束耗时--品牌：0.02s. 所有筛选转化结束耗时：0.02s. 记录log耗时：0.02s. 保存seo前耗时：0.02s. 保存seo耗时：0.02s. 全部拼接前耗时：0.02s. 拼接报价前：0.02s. 拼接报价后：0.05s. 全部拼接结束耗时：0.05s. end.
+            <div style="color: #ffffff;">
+            </div>
+            <div style="color: #ffffff;">
+            </div>
+        </div>
+<!--提示tips-->
+
+
+    <script type="text/javascript">
+    function getQueryString(sURL, key) {
+         var value = '';
+         if (sURL.indexOf('?') > 0) {
+             var arrayParams = sURL.split('?');
+             var arrayURLParams = arrayParams[1].split('&');
+             for (var i = 0; i < arrayURLParams.length; i++) {
+                 var sParam = arrayURLParams[i].split('=');
+                 if ((sParam[0] == key) && (sParam[1] != '')) {
+                     value = sParam[1];
+                     break;
+                 }
+             }
+         }
+         return value;
+     }
+  
+            //列表模式
+            $('.bjlineSmall').each(function (index) {
+                $(this).find('.poptrend').hover(function () {
+	            $(this).parent().css('z-index','1');
+                    $(this).css('z-index','1');
+                    if ($(this).find('.panel-popup').length <= 0) {
+                        var prohref = $(this).find("a").attr("href");
+                        if (prohref.indexOf("tool.manmanbuy.com") > -1) {
+                            var newurl= unescape(getQueryString(prohref,"url"));
+                            var token= d.encrypt(newurl,2,true);
+                            $(this).append('<div class="panel-popup"><i class="angle angle-up"><i class="angle-outer"></i><i class="angle-inner"></i></i><iframe src="' + prohref.replace("historyLowest.aspx", "history.aspx")+'&token='+token+ '&w=350&h=160&m=1&e=2&sp=0" marginwidth="0" marginheight="0" frameborder="no" scrolling="no" width="340" height="170" ></iframe></div>');
+                        }
+                        else {
+                            var reg = /bjid=(\d+)/gi;
+                            var bjid = prohref.match(reg)[0].replace("bjid=", "");
+                            if (bjid.length != "0") {
+                                $(this).append('<div class="panel-popup"><i class="angle angle-up"><i class="angle-outer"></i><i class="angle-inner"></i></i><iframe src="http://tool.manmanbuy.com/history.aspx?w=350&h=160&m=1&e=2&bjid=' + bjid + '&sp=0" marginwidth="0" marginheight="0" frameborder="no" scrolling="no" width="340" height="170"></iframe></div>');
+                            }
+                        }
+                    }
+                    $(this).find('.panel-popup').show();
+                }, function () {
+	            $(this).parent().css('z-index','0');
+                    $(this).css('z-index','0');
+                    $(this).find('.panel-popup').hide();
+                })
+            });
+
+            //大图模式
+            $('.bjlineBig').each(function (index) {
+                $(this).hover(function(){
+                    $(this).find('.divcommentBigNew').hide();
+                    $(this).find('.addfav').show();
+                },function(){
+                    $(this).find('.addfav').hide();
+                    $(this).find('.divcommentBigNew').show();
+                })
+                $(this).find('.poptrend').hover(function () {
+                    if ($(this).find('.panel-popup').length <= 0) {
+                        var prohref = $(this).find("a").attr("href");
+                        if (prohref.indexOf("tool.manmanbuy.com") > -1) {
+                            var newurl= unescape(getQueryString(prohref,"url"));
+                            var token= d.encrypt(newurl,2,true);
+                            $(this).append('<div class="panel-popup"><i class="angle angle-up"><i class="angle-outer"></i><i class="angle-inner"></i></i><iframe src="' + prohref.replace("historyLowest.aspx", "history.aspx")+'&token='+token+ '&w=350&h=160&m=1&e=2&sp=0" marginwidth="0" marginheight="0" frameborder="no" scrolling="no" width="340" height="170"></iframe></div>');
+                        }
+                        else {
+                            var reg = /bjid=(\d+)/gi;
+                            var bjid = prohref.match(reg)[0].replace("bjid=", "");
+                            if (bjid.length != "0") {
+                                $(this).append('<div class="panel-popup"><i class="angle angle-up"><i class="angle-outer"></i><i class="angle-inner"></i></i><iframe src="http://tool.manmanbuy.com/history.aspx?w=350&h=160&m=1&e=2&bjid=' + bjid + '&sp=0" marginwidth="0" marginheight="0" frameborder="no" scrolling="no" width="340" height="170"></iframe></div>');
+                            }
+                        }
+                    }
+                    if ((index + 1) % 4 == 0 && index != 0) {
+                        $(this).find('.angle').css({'right':'132px','left':'auto'});
+			$(this).find('.panel-popup').css({'right':'-120px','left':'auto'});
+                    }
+                    $(this).find('.panel-popup').show();
+                }, function () {
+                    $(this).find('.panel-popup').hide();
+                })
+            });
+            //大图产品 模式
+	    $('.disprolistDiv .poptrend').each(function (index) {
+                $(this).hover(function () {
+                    if ($(this).find('.panel-popup').length <= 0) {
+                        var prohref = $(this).find("a").attr("href");
+                        var reg = /pt_(\d+)/gi;
+                        var spid = prohref.match(reg)[0].replace("pt_", "");
+                        if (spid.length != "0") {
+                            $(this).append('<div class="panel-popup"><i class="angle angle-up"><i class="angle-outer"></i><i class="angle-inner"></i></i><iframe src="http://tool.manmanbuy.com/historyPro.aspx?w=340&h=160&m=1&e=2&scroll=0&id=' + spid + '" marginwidth="0" marginheight="0" frameborder="no" scrolling="no" width="340" height="170"></iframe></div>');
+                        }
+                    }
+                    if ((index + 1) % 4 == 0 && index != 0) {
+					
+                        $(this).find('.angle').css({'right':'132px','left':'auto'});
+		            	$(this).find('.panel-popup').css({'right':'-120px','left':'auto'});
+                    }
+                    $(this).find('.panel-popup').show();
+                }, function () {
+                    $(this).find('.panel-popup').hide();
+                })
+            });
+</script>
+<!--提示/tips-->
+
+    </div></div></div>
+
+<script type="text/javascript">
+	$(document).ready(function () {
+		$(window).scroll(function(){
+			document.documentElement.scrollTop+document.body.scrollTop>400?$('.com-back .forward').fadeIn():$('.com-back .forward').fadeOut();
+		})
+		document.documentElement.scrollTop+document.body.scrollTop>400?$('.com-back .forward').fadeIn():$('.com-back .forward').fadeOut();
+		$('.com-back .forward').click(function () {
+			$('html, body').animate({scrollTop:0},500);
+			return false; 
+		});
+	});
+</script> 
+<!--[if lt IE 9]>
+<script type="text/javascript">
+	$(document).ready(function () {
+		function RenderComBack(){
+			if($(window).width()<=1290){
+				$('.com-back').attr('style','right:0px;display:block;');
+			}else{
+				$('.com-back').attr('style','left:50%;margin-left:600px;display:block;');
+			}
+		}
+		RenderComBack();
+		$(window).resize(function() {
+			RenderComBack();
+		});
+	});
+</script>
+<![endif]-->
+    <script type="text/javascript">
+        $(document).ready(function () {
+            var username = "";
+			if($('.bbsuser').html()==undefined)
+			{}else{username=$('.bbsuser').html()}
+            // alert(username);
+            if (username != "") {//如果用户没有登录
+
+                //getMessageCount(escape(username));
+            }
+        });
+        function getMessageCount(u) {
+            var clientUrl = "http://apapia.manmanbuy.com/index_json.ashx?methodName=getmsgcount&jsoncallback=?";
+            $.ajax({
+                url: clientUrl,
+                type: 'post',
+                dataType: "jsonp",
+                data: { u: u },
+                success: Mgs_refresh,
+                error: function (json) {
+                    $('.message').hide();
+                }
+            });
+        }
+        function Mgs_refresh(json) {
+            var obj = json.ret;
+            if (obj != "0") {
+                //$('.com-back .msg i').css('background-position', '-1px -120px');
+				$('#rpoint').css('left', '31px').css('top','3px');
+                $('#rpoint').show();
+            }
+        }
+
+
+    </script>
+    <div class="com-back">
+        <div class="forward" style="display: block;">
+            <a href="javascript:;"><i></i><em>返回顶部</em></a></div>
+        <div class="feedback">
+            <a href="http://help.manmanbuy.com/fk.aspx" target="_blank"><i></i><em>我要反馈</em></a></div>
+
+    </div>
+	<style>
+        .com-back
+        {
+            width: 42px;
+            position: fixed;
+            _position: absolute;
+            bottom: 41px;
+            right: 0px;
+            display: none;
+        }
+        .com-back a i
+        {
+            background: url(https://img.alicdn.com/imgextra/i4/690311/TB2XM0LrVXXXXb9XpXXXXXXXXXX_!!690311.gif) no-repeat;
+        }
+        .com-back a
+        {
+            display: block;
+            color: #ffffff;
+            font-size: 12px;
+            text-decoration: none !important;
+            border: 1px solid #EBEBEB;
+            width: 39px;
+            height: 39px;
+            background-color: #F5F5F5;
+        }
+        .com-back a i
+        {
+            display: block;
+            height: 30px;
+            width: 30px;
+            margin: 4px auto;
+            overflow: hidden;
+        }
+        .com-back a em
+        {
+            text-align: center;
+            display: none;
+            font-style: normal;
+            font-size: 12px;
+            font-family: "Microsoft YaHei";
+            overflow: hidden;
+            margin: 3px auto 0;
+            width: 24px;
+            font-size: 12px;
+            line-height: 16px;
+        }
+        .com-back a:hover
+        {
+            background-color: #999;
+            border-color: #999;
+        }
+        .com-back a:hover i
+        {
+            display: none;
+        }
+        .com-back a:hover em
+        {
+            display: block;
+        }
+        .com-back .forward
+        {
+            display: none;
+            margin-bottom: 4px;
+        }
+        .com-back .forward i
+        {
+            background-position: -2px 0px;
+        }
+        .com-back .forward:hover i
+        {
+            background-position: -35px 0px;
+            -webkit-border-radius: 0 3px 3px 0;
+            -moz-border-radius: 0 3px 3px 0;
+            border-radius: 0 3px 3px 0;
+        }
+        .com-back .feedback
+        {
+            margin-bottom: 4px;
+        }
+        .com-back .feedback i
+        {
+            background-position: -1px -80px;
+        }
+        .com-back .feedback:hover i
+        {
+            background-position: -35px -40px;
+            -webkit-border-radius: 0 3px 3px 0;
+            -moz-border-radius: 0 3px 3px 0;
+            border-radius: 0 3px 3px 0;
+        }
+        
+        .com-back .msg i
+        {
+            background-position: -1px -40px;
+        }
+        .com-back .msg:hover i
+        {
+            background-position: -35px -40px;
+            -webkit-border-radius: 0 3px 3px 0;
+            -moz-border-radius: 0 3px 3px 0;
+            border-radius: 0 3px 3px 0;
+        }
+        @media screen and (max-width: 1290px)
+        {
+            .com-back
+            {
+                display: block;
+                right: 0px;
+            }
+        }
+        @media screen and (min-width: 1290px)
+        {
+            .com-back
+            {
+                left: 50%;
+                margin-left: 600px;
+                display: block;
+            }
+        }
+    </style>
+
+
+<style type="text/css">
+.footer-wrap .footer-box .footer-app .qr .qr-ot a,.footer-wrap .footer-box .footer-app .qr .qr-img{ background:url(http://include.manmanbuy.com/newindex/newindexpic/m.m.c/nav_app_icon.gif) no-repeat;}
+.footer-wrap{ font-family:"Microsoft YaHei"; padding-top: 40px;text-align: left;}
+.footer-wrap a{ font-family:"Microsoft YaHei";}
+.footer-wrap div{font-family:"Microsoft YaHei";}
+.footer-wrap .w{ width:998px; margin:0px auto;}
+.footer-wrap .footer-box{ border-top:1px solid #dddddd; background-color:#fefefe; height:240px;padding: 10px 0px;}
+.footer-wrap .footer-box .footer-app{ float:left; width:280px;}
+.footer-wrap .footer-box .footer-app .qr{margin:30px 0px 26px 0px;}
+.footer-wrap .footer-box .footer-app .qr .qr-img{width: 106px; height: 106px; background-position: 0 0; float: left; margin-right: 12px;}
+.footer-wrap .footer-box .footer-app .qr .qr-ot a{display: block;width: 104px; height: 28px; padding: 0px; margin: 10px 0px; overflow:hidden; text-indent:-99em;}
+.footer-wrap .footer-box .footer-app .qr .qr-ot a.a-iphone{background-position: 0px -122px;}
+.footer-wrap .footer-box .footer-app .qr .qr-ot a.a-android{background-position: 0px -157px;}
+.footer-wrap .footer-box .footer-app .p{ font-size:28px;}
+.footer-wrap .footer-box .footer-guide{ float:left; border-left:1px solid #dddddd; border-right:1px solid #dddddd; width:470px;height: 200px;margin-top: 20px;}
+.footer-wrap .footer-box .footer-work{ float:left; width:246px;}
+.footer-wrap .footer-info{background-color:#fbfbfb;text-align:center; line-height:20px;}
+.footer-wrap .footer-info span{height: 0px; position:relative;color:#ffffff;display:inline-block;width:240px;border-bottom: 30px solid #333333;border-left: 20px solid transparent;border-right: 20px solid transparent;margin:0px auto;} 
+.footer-wrap .footer-info a{ color:#dbdbdb; position:absolute; left:14px; top:6px;}
+.footer-wrap .footer-info a:hover{ color:#fbfbfb;}
+.footer-wrap .footer-alink{ background-color:#333333;height: 40px;color: #dddddd;line-height: 40px;}
+.footer-wrap .footer-alink .w{color: #dddddd;}
+.footer-wrap .footer-alink em{padding: 0px 6px;color: #555; font-size:9px; font-style:normal;}
+.footer-wrap .footer-alink a{color: #ddd;}
+
+.hz_div{text-align:left;font-size:12px; line-height:26px;height:32px;margin-left:40px;}
+</style>
+
+
+  <div class="footinner" id="footjdad">
+ <!--
+<div  style="margin-left:20px;">
+<script type="text/javascript">var jd_union_unid="206538653",jd_ad_ids="505:6",jd_union_pid="CKfrs8f0KRCdj75iGgAg5727nAEqAA==";var jd_width=960;var jd_height=90;var jd_union_euid="";var p="ABMFURJfEwoRNwpfBkgyTUMIRmtKRk9aZV8ETVxNNwpfBkgyeUNLWFJAXk1kEFMdSVpqZ1JeBRNGRAtZK1gUBRQOUx9ZEzIRBlIfWRwFFgVlKwRRX083HnVaJTISAlAaWhcEFgVXGlMTMhM%3D";</script><script type="text/javascript" charset="utf-8" src="http://u.x.jd.com/static/js/auto.js"></script>
+</div>--></div>
+
+<div class="footer-wrap">
+  <div class="footer-box">
+    <div class="w">
+      <div class="footer-app">
+        <div class="qr">
+          <div class="qr-img"></div>
+          <div class="qr-ot">
+            <p>扫描下载慢慢买APP</p>
+            <a href="https://itunes.apple.com/cn/app/man-man-mai-bi-jia-wang-rang/id933106331?l=en&mt=8" target="_blank" class="a-iphone">iPhone版下载</a> <a href="http://sj.qq.com/myapp/detail.htm?apkName=com.manmanbuy.bijia" target="_blank" class="a-android">Android版下载</a> </div>
+        </div>
+        <div class="p">你的随身购物助手</div>
+      </div>
+      <div class="footer-guide">
+<div style="text-align:center;font-size:14px;line-height:40px; height:40px;margin-bottom:12px;">何为慢慢买</div>
+<div style="text-align:left;font-size: 13px;line-height:26px;width:360px;margin-left: 50px;">慢慢买是一个倡导理性消费的导购平台，7年来我们专注为用户推荐高性价比的商品，同时开发了全网比价、历史价格查询等购物助手，力求帮助消费者花更少的钱买到优质的商品。</div>
+<div style="text-align:left;font-size: 12px;line-height:40px;width:360px;margin-left: 50px;margin-top: 10px;">合作商城：<a href="http://www.manmanbuy.com/redirectUrl.aspx?spid=0&webid=1" target="_blank">京东</a>  <a href="http://www.tmall.com" target="_blank">天猫</a>
+<a href="http://www.manmanbuy.com/redirectUrl.aspx?spid=0&webid=6" target="_blank">苏宁</a> <a href="http://www.manmanbuy.com/redirectUrl.aspx?spid=0&webid=4" target="_blank">亚马逊</a> <a href="http://www.manmanbuy.com/redirectUrl.aspx?spid=0&webid=8" target="_blank">国美</a>
+<a href="http://www.manmanbuy.com/redirectUrl.aspx?spid=0&webid=241" target="_blank">考拉</a> 
+<a href="http://www.manmanbuy.com/redirectUrl.aspx?spid=0&webid=13" target="_blank">1号店</a>
+<a href="http://www.manmanbuy.com/redirectUrl.aspx?spid=0&webid=36" target="_blank">唯品会</a>
+ &nbsp; 
+<a href="http://fanli.manmanbuy.com/">更多&raquo;</a>
+</div>
+      </div>
+      <div class="footer-work">
+<div style="text-align:left;font-size:14px;line-height:60px; height:60px; margin-left:40px;margin-top:10px;">商务合作</div>
+        <div class="hz_div"><a href="http://help.manmanbuy.com/default.aspx?id=38756" target="_blank">B2C商城入驻&raquo;</a></div>
+        <div class="hz_div"><a href="http://help.manmanbuy.com/default.aspx?id=38758" target="_blank">比价API合作&raquo;</a></div>
+      <div class="hz_div"><a href="http://help.manmanbuy.com/default.aspx?id=38757" target="_blank">电商活动报名&raquo;</a></div>
+<div class="hz_div"><a href="http://help.manmanbuy.com/default.aspx?id=38754" target="_blank">联系我们&raquo;</a></div>
+
+      </div>
+    </div>
+  </div>
+  <!--<div class="footer-info"><span><a href="http://help.manmanbuy.com/default.aspx?id=38753">慢慢买 - 崇尚理性消费，追求生活品质！</a></span></div>-->
+  <div class="footer-alink">
+    <div class="w"> &copy; 2018 <a href="http://www.manmanbuy.com">慢慢买</a> 版权所有 <em>|</em> <a href="http://help.manmanbuy.com" target="_blank">关于我们</a> <em>|</em> <a href="http://m.manmanbuy.com/" target="_blank">Wap版</a> <em>|</em> <a href="http://www.manmanbuy.com/">比价网</a><em>|</em> <a href="http://www.manmanbuy.com/comment.aspx">全网评论</a> <em>|</em> <a href="http://cu.manmanbuy.com/">值得买</a> <em>|</em> <a href="http://tool.manmanbuy.com/HistoryLowest.aspx" target="_blank">历史价格</a> <em>|</em> <a href="http://www.manmanbuy.com/link.aspx">友情链接</a>  <em>|</em> <a href="http://www.manmanbuy.com/top10.aspx">品牌大全</a> <em>|</em> <a href="http://www.manmanbuy.com/newpro.aspx">最新商品</a> 
+<em>|</em> <a href="http://fanli.manmanbuy.com">网站导航</a> <em>|</em> <a href="http://list.manmanbuy.com/sitemap.aspx">地图</a> <em>|</em> <a href="http://www.miibeian.gov.cn/" target="_blank">浙ICP备10201740号</a>
+    </div>
+  </div>
+<script>
+(function(){
+    var bp = document.createElement('script');
+    var curProtocol = window.location.protocol.split(':')[0];
+    if (curProtocol === 'https') {
+        bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';        
+    }
+    else {
+        bp.src = 'http://push.zhanzhang.baidu.com/push.js';
+    }
+    var s = document.getElementsByTagName("script")[0];
+    s.parentNode.insertBefore(bp, s);
+})();
+</script>
+
+
+<script>(function(){
+var src = (document.location.protocol == "http:") ? "http://js.passport.qihucdn.com/11.0.1.js?1cef759b2f318d531e63b03e6258c099":"https://jspassport.ssl.qhimg.com/11.0.1.js?1cef759b2f318d531e63b03e6258c099";
+document.write('<script src="' + src + '" id="sozz"><\/script>');
+})();
+</script>
+<link href="//include.manmanbuy.com/css/fancybox.css" rel="stylesheet" type="text/css" />
+<script src="//include.manmanbuy.com/js/projs/jquery.fancybox.pack.js" type="text/javascript"></script>
+<script src="//include.manmanbuy.com/js/shenqing.js?v=20172" type="text/javascript"></script>
+<!--<script src="//include.manmanbuy.com/js/MMBSign_P.js?v=20160123" type="text/javascript"></script>-->
+<!--<script src="//include.manmanbuy.com/js/MMBSign.js?v=20160118" type="text/javascript"></script>-->
+    <!--/网站通用浮动--><script src="http://include.manmanbuy.com/js/tixings11_pc.js" type="text/javascript"></script><div>
+<script type="text/javascript" src="http://include.manmanbuy.com/js/jquery.lazyload.js"></script>
+
+         <iframe id="iframemain" style=" margin:0 0; display:none;" src="http://home.manmanbuy.com/loginIFrame.aspx" width="800" height="360" rel="nofollow" frameborder="0" scrolling="no" marginwidth="0" marginheight="0" class="iframe"></iframe>
+    </div>
+<script type="text/javascript">
+    (function(win,doc){
+        var s = doc.createElement("script"), h = doc.getElementsByTagName("head")[0];
+        if (!win.alimamatk_show) {
+            s.charset = "gbk";
+            s.async = true;
+            s.src = "http://a.alimama.cn/tkapi.js";
+            h.insertBefore(s, h.firstChild);
+        };
+        var o = {
+            pid: "mm_106215640_9852564_51740955",/*mm_106215640_9762482_32844890推广单元ID，用于区分不同的推广渠道*/
+            appkey: "",/*通过TOP平台申请的appkey，设置后引导成交会关联appkey*/
+            unid: "",/*自定义统计字段*/
+            type: "click" /* click 组件的入口标志 （使用click组件必设）*/
+        };
+        win.alimamatk_onload = win.alimamatk_onload || [];
+        win.alimamatk_onload.push(o);
+    })(window,document);
+</script>
+    <script src="/js/youhuitest.js?2017" type="text/javascript"></script>
+    <script src="http://include.manmanbuy.com/js/SimpleAutoComplete.js" type="text/javascript"></script>
+    <script src="http://include.manmanbuy.com/js/getxiala.js" type="text/javascript"></script>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            var q ="";//$tbxskey$
+            if (q!="") {
+                $.get("/Proxy/HttpProxy.aspx?flag=httpporxy&q=" + escape(q), function (data) {
+                    if (data.length > 0) {
+                        $("#disxsc").html("你是不是想找：" + data);
+                        $("#disxsc").show();
+                    }
+                });
+            }
+
+
+           $(".bjlineSmall").each(function () {
+	$(this).mouseenter(function () {
+		$(this).find(".title .i").attr("style", "visibility:visible;");
+		$(this).find(".addfav").show();
+	})
+	$(this).mouseleave(function () {
+		$(this).find(".title .i").attr("style", "visibility:hidden;");
+		$(this).find(".addfav").hide();
+	})
+});
+
+
+        });
+
+   
+    </script>
+
+<script type="text/javascript">
+                var _bdhmProtocol = " https://";
+                document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F313c599bcf6e44393cebef6a2629f81e' type='text/javascript'%3E%3C/script%3E"));
+</script><a href="#" rel="nofollow" role="button" id="back_top" tabindex="-1">返回顶部</a>
+<script type="text/javascript">
+    document.domain = 'manmanbuy.com';
+    $(document).ready(function () {
+$(".disprolistDivx .item .pic img").lazyload({
+                placeholder: "http://misc.manmango.com/images/kong.gif",
+                effect: "fadeIn"
+            });
+        $(".addfav a").each(function () {
+            $(this).fancybox({
+                'modal': true,
+                'padding': 0,
+                'showCloseButton': false,
+                'scrolling': 'no'
+
+            }).click(function () {
+                $("#iframemain").attr("src", "http://home.manmanbuy.com/loginIFrame.aspx?action=" + $(this).attr("v"));
+            });
+        })
+    });
+
+    //关闭的时候调用该方法（里面自定义）
+    function parentCloseWinc() {
+        $.fancybox.close();
+        //alert("子页面调用父页面方法");
+        location.replace(location);
+    }
+
+</script>
+
+</body>
+</html><link href="?c4c590bac57ad9a1=00c088152370c847671e7d6af5148d71" rel="stylesheet" type="text/css" />	<!--84925151<link href="?4ba272d01f9eee1b=a9da2e572f5dd14f4e57274f3fcc844a" rel="stylesheet" type="text/css" />-->	
