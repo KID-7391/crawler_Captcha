@@ -1,7 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9cdd611c-9611-421b-8d88-7650d7d6b724" name="Default" comment="" />
+    <list default="true" id="9cdd611c-9611-421b-8d88-7650d7d6b724" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/get_useful_data.py" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/data/data_0_0" afterPath="$PROJECT_DIR$/data/data_0_0" />
+      <change beforePath="$PROJECT_DIR$/data/data_0_1" afterPath="$PROJECT_DIR$/data/data_0_1" />
+      <change beforePath="$PROJECT_DIR$/data/data_0_10" afterPath="$PROJECT_DIR$/data/data_0_10" />
+      <change beforePath="$PROJECT_DIR$/data/data_0_11" afterPath="$PROJECT_DIR$/data/data_0_11" />
+      <change beforePath="$PROJECT_DIR$/data/data_0_12" afterPath="$PROJECT_DIR$/data/data_0_12" />
+      <change beforePath="$PROJECT_DIR$/data/data_0_13" afterPath="$PROJECT_DIR$/data/data_0_13" />
+      <change beforePath="$PROJECT_DIR$/data/data_0_14" afterPath="$PROJECT_DIR$/data/data_0_14" />
+      <change beforePath="$PROJECT_DIR$/data/data_0_15" afterPath="$PROJECT_DIR$/data/data_0_15" />
+      <change beforePath="$PROJECT_DIR$/data/data_0_16" afterPath="$PROJECT_DIR$/data/data_0_16" />
+      <change beforePath="$PROJECT_DIR$/data/data_0_17" afterPath="$PROJECT_DIR$/data/data_0_17" />
+      <change beforePath="$PROJECT_DIR$/data/data_0_18" afterPath="$PROJECT_DIR$/data/data_0_18" />
+      <change beforePath="$PROJECT_DIR$/data/data_0_19" afterPath="$PROJECT_DIR$/data/data_0_19" />
+      <change beforePath="$PROJECT_DIR$/data/data_0_20" afterPath="$PROJECT_DIR$/data/data_0_20" />
+      <change beforePath="$PROJECT_DIR$/data/data_0_21" afterPath="$PROJECT_DIR$/data/data_0_21" />
+      <change beforePath="$PROJECT_DIR$/data/data_0_22" afterPath="$PROJECT_DIR$/data/data_0_22" />
+      <change beforePath="$PROJECT_DIR$/data/data_0_23" afterPath="$PROJECT_DIR$/data/data_0_23" />
+      <change beforePath="$PROJECT_DIR$/data/data_0_26" afterPath="$PROJECT_DIR$/data/data_0_26" />
+      <change beforePath="$PROJECT_DIR$/data/data_0_4" afterPath="$PROJECT_DIR$/data/data_0_4" />
+      <change beforePath="$PROJECT_DIR$/data/data_0_5" afterPath="$PROJECT_DIR$/data/data_0_5" />
+      <change beforePath="$PROJECT_DIR$/data/data_0_6" afterPath="$PROJECT_DIR$/data/data_0_6" />
+      <change beforePath="$PROJECT_DIR$/data/data_0_7" afterPath="$PROJECT_DIR$/data/data_0_7" />
+      <change beforePath="$PROJECT_DIR$/data/data_0_8" afterPath="$PROJECT_DIR$/data/data_0_8" />
+      <change beforePath="$PROJECT_DIR$/data/data_0_9" afterPath="$PROJECT_DIR$/data/data_0_9" />
+      <change beforePath="$PROJECT_DIR$/data/data_1_0" afterPath="$PROJECT_DIR$/data/data_1_0" />
+      <change beforePath="$PROJECT_DIR$/data/data_1_1" afterPath="$PROJECT_DIR$/data/data_1_1" />
+      <change beforePath="$PROJECT_DIR$/data/data_1_10" afterPath="$PROJECT_DIR$/data/data_1_10" />
+      <change beforePath="$PROJECT_DIR$/data/data_1_11" afterPath="$PROJECT_DIR$/data/data_1_11" />
+      <change beforePath="$PROJECT_DIR$/data/data_1_12" afterPath="$PROJECT_DIR$/data/data_1_12" />
+      <change beforePath="$PROJECT_DIR$/data/data_1_13" afterPath="$PROJECT_DIR$/data/data_1_13" />
+      <change beforePath="$PROJECT_DIR$/data/data_1_14" afterPath="$PROJECT_DIR$/data/data_1_14" />
+      <change beforePath="$PROJECT_DIR$/data/data_1_15" afterPath="$PROJECT_DIR$/data/data_1_15" />
+      <change beforePath="$PROJECT_DIR$/data/data_1_16" afterPath="$PROJECT_DIR$/data/data_1_16" />
+      <change beforePath="$PROJECT_DIR$/data/data_1_17" afterPath="$PROJECT_DIR$/data/data_1_17" />
+      <change beforePath="$PROJECT_DIR$/data/data_1_18" afterPath="$PROJECT_DIR$/data/data_1_18" />
+      <change beforePath="$PROJECT_DIR$/data/data_1_19" afterPath="$PROJECT_DIR$/data/data_1_19" />
+      <change beforePath="$PROJECT_DIR$/data/data_1_2" afterPath="$PROJECT_DIR$/data/data_1_2" />
+      <change beforePath="$PROJECT_DIR$/data/data_1_20" afterPath="$PROJECT_DIR$/data/data_1_20" />
+      <change beforePath="$PROJECT_DIR$/data/data_1_21" afterPath="$PROJECT_DIR$/data/data_1_21" />
+      <change beforePath="$PROJECT_DIR$/data/data_1_22" afterPath="$PROJECT_DIR$/data/data_1_22" />
+      <change beforePath="$PROJECT_DIR$/data/data_1_23" afterPath="$PROJECT_DIR$/data/data_1_23" />
+      <change beforePath="$PROJECT_DIR$/data/data_1_3" afterPath="$PROJECT_DIR$/data/data_1_3" />
+      <change beforePath="$PROJECT_DIR$/data/data_1_4" afterPath="$PROJECT_DIR$/data/data_1_4" />
+      <change beforePath="$PROJECT_DIR$/data/data_1_5" afterPath="$PROJECT_DIR$/data/data_1_5" />
+      <change beforePath="$PROJECT_DIR$/data/data_1_6" afterPath="$PROJECT_DIR$/data/data_1_6" />
+      <change beforePath="$PROJECT_DIR$/data/data_1_7" afterPath="$PROJECT_DIR$/data/data_1_7" />
+      <change beforePath="$PROJECT_DIR$/data/data_1_8" afterPath="$PROJECT_DIR$/data/data_1_8" />
+      <change beforePath="$PROJECT_DIR$/data/data_1_9" afterPath="$PROJECT_DIR$/data/data_1_9" />
+      <change beforePath="$PROJECT_DIR$/data/error_data_1_16" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/geckodriver.log" afterPath="$PROJECT_DIR$/geckodriver.log" />
+      <change beforePath="$PROJECT_DIR$/get_data.py" afterPath="$PROJECT_DIR$/get_data.py" />
+      <change beforePath="$PROJECT_DIR$/ip_http.txt" afterPath="$PROJECT_DIR$/ip_http.txt" />
+      <change beforePath="$PROJECT_DIR$/log" afterPath="$PROJECT_DIR$/log" />
+      <change beforePath="$PROJECT_DIR$/source" afterPath="$PROJECT_DIR$/source" />
+      <change beforePath="$PROJECT_DIR$/yanzhengma" afterPath="" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,14 +68,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="get_data.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="get_data.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/get_data.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="301">
-              <caret line="278" column="20" lean-forward="true" selection-start-line="278" selection-start-column="20" selection-end-line="278" selection-end-column="20" />
+            <state relative-caret-position="-3984">
+              <caret line="72" column="30" lean-forward="false" selection-start-line="72" selection-start-column="30" selection-end-line="72" selection-end-column="30" />
               <folding>
                 <element signature="e#13#34#0" expanded="true" />
+                <marker date="1524805058238" expanded="true" signature="13938:14014" ph="..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="get_useful_data.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/get_useful_data.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="12" column="36" lean-forward="false" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -53,6 +121,9 @@
       <find>str</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -60,14 +131,15 @@
         <option value="$PROJECT_DIR$/../untitled/test.py" />
         <option value="$PROJECT_DIR$/get_ip.py" />
         <option value="$PROJECT_DIR$/get_data.py" />
+        <option value="$PROJECT_DIR$/get_useful_data.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="992" />
+    <option name="x" value="556" />
     <option name="y" value="-4" />
-    <option name="width" value="928" />
-    <option name="height" value="1084" />
+    <option name="width" value="926" />
+    <option name="height" value="1076" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -102,25 +174,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.get_data">
-    <configuration name="Canny" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Canny" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="get_data" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Canny/Canny.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.get_useful_data">
     <configuration name="get_data" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -152,6 +206,24 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="get_data" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/get_ip.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="get_useful_data" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="get_data" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/get_useful_data.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -192,18 +264,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.get_data" />
-      <item index="1" class="java.lang.String" itemvalue="Python.Canny" />
-      <item index="2" class="java.lang.String" itemvalue="Python tests.Nosetests in get_ip.py" />
-      <item index="3" class="java.lang.String" itemvalue="Python.test" />
-      <item index="4" class="java.lang.String" itemvalue="Python.get_ip" />
+      <item index="1" class="java.lang.String" itemvalue="Python tests.Nosetests in get_ip.py" />
+      <item index="2" class="java.lang.String" itemvalue="Python.test" />
+      <item index="3" class="java.lang.String" itemvalue="Python.get_ip" />
+      <item index="4" class="java.lang.String" itemvalue="Python.get_useful_data" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.get_data" />
-        <item index="1" class="java.lang.String" itemvalue="Python.get_ip" />
-        <item index="2" class="java.lang.String" itemvalue="Python.test" />
-        <item index="3" class="java.lang.String" itemvalue="Python tests.Nosetests in get_ip.py" />
-        <item index="4" class="java.lang.String" itemvalue="Python.Canny" />
+        <item index="0" class="java.lang.String" itemvalue="Python.get_useful_data" />
+        <item index="1" class="java.lang.String" itemvalue="Python.get_data" />
+        <item index="2" class="java.lang.String" itemvalue="Python.get_ip" />
+        <item index="3" class="java.lang.String" itemvalue="Python.test" />
+        <item index="4" class="java.lang.String" itemvalue="Python tests.Nosetests in get_ip.py" />
       </list>
     </recent_temporary>
   </component>
@@ -250,7 +322,7 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="992" y="-4" width="1857" height="1092" extended-state="6" />
+    <frame x="556" y="-4" width="1857" height="1092" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4989224" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -284,10 +356,11 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/get_data.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="5814">
+          <caret line="340" column="1" lean-forward="true" selection-start-line="340" selection-start-column="1" selection-end-line="340" selection-end-column="1" />
           <folding>
             <element signature="e#13#34#0" expanded="true" />
+            <marker date="1524805058238" expanded="true" signature="13938:14014" ph="..." />
           </folding>
         </state>
       </provider>
@@ -308,6 +381,7 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#13#34#0" expanded="true" />
+            <marker date="1524805058238" expanded="true" signature="13938:14014" ph="..." />
           </folding>
         </state>
       </provider>
@@ -328,6 +402,7 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#13#34#0" expanded="true" />
+            <marker date="1524805058238" expanded="true" signature="13938:14014" ph="..." />
           </folding>
         </state>
       </provider>
@@ -348,6 +423,28 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#13#34#0" expanded="true" />
+            <marker date="1524805058238" expanded="true" signature="13938:14014" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/get_ip.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2160">
+          <caret line="120" column="37" lean-forward="false" selection-start-line="120" selection-start-column="37" selection-end-line="120" selection-end-column="37" />
+          <folding>
+            <element signature="e#15#44#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/get_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#13#34#0" expanded="true" />
+            <marker date="1524805058238" expanded="true" signature="13938:14014" ph="..." />
           </folding>
         </state>
       </provider>
@@ -368,6 +465,17 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#13#34#0" expanded="true" />
+            <marker date="1524805058238" expanded="true" signature="13938:14014" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/get_ip.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2034">
+          <caret line="120" column="37" lean-forward="false" selection-start-line="120" selection-start-column="37" selection-end-line="120" selection-end-column="37" />
+          <folding>
+            <element signature="e#15#44#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -378,6 +486,17 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#13#34#0" expanded="true" />
+            <marker date="1524805058238" expanded="true" signature="13938:14014" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/get_ip.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2034">
+          <caret line="120" column="37" lean-forward="false" selection-start-line="120" selection-start-column="37" selection-end-line="120" selection-end-column="37" />
+          <folding>
+            <element signature="e#15#44#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -388,6 +507,218 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#13#34#0" expanded="true" />
+            <marker date="1524805058238" expanded="true" signature="13938:14014" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/get_ip.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2034">
+          <caret line="120" column="37" lean-forward="false" selection-start-line="120" selection-start-column="37" selection-end-line="120" selection-end-column="37" />
+          <folding>
+            <element signature="e#15#44#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/get_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#13#34#0" expanded="true" />
+            <marker date="1524805058238" expanded="true" signature="13938:14014" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/get_ip.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2034">
+          <caret line="120" column="37" lean-forward="false" selection-start-line="120" selection-start-column="37" selection-end-line="120" selection-end-column="37" />
+          <folding>
+            <element signature="e#15#44#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/get_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#13#34#0" expanded="true" />
+            <marker date="1524805058238" expanded="true" signature="13938:14014" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/get_ip.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2034">
+          <caret line="120" column="37" lean-forward="false" selection-start-line="120" selection-start-column="37" selection-end-line="120" selection-end-column="37" />
+          <folding>
+            <element signature="e#15#44#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/get_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#13#34#0" expanded="true" />
+            <marker date="1524805058238" expanded="true" signature="13938:14014" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/get_ip.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2034">
+          <caret line="120" column="37" lean-forward="false" selection-start-line="120" selection-start-column="37" selection-end-line="120" selection-end-column="37" />
+          <folding>
+            <element signature="e#15#44#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/get_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#13#34#0" expanded="true" />
+            <marker date="1524805058238" expanded="true" signature="13938:14014" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/get_ip.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2034">
+          <caret line="120" column="37" lean-forward="false" selection-start-line="120" selection-start-column="37" selection-end-line="120" selection-end-column="37" />
+          <folding>
+            <element signature="e#15#44#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/get_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#13#34#0" expanded="true" />
+            <marker date="1524805058238" expanded="true" signature="13938:14014" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/get_ip.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2034">
+          <caret line="120" column="37" lean-forward="false" selection-start-line="120" selection-start-column="37" selection-end-line="120" selection-end-column="37" />
+          <folding>
+            <element signature="e#15#44#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/get_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#13#34#0" expanded="true" />
+            <marker date="1524805058238" expanded="true" signature="13938:14014" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/get_ip.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2034">
+          <caret line="120" column="37" lean-forward="false" selection-start-line="120" selection-start-column="37" selection-end-line="120" selection-end-column="37" />
+          <folding>
+            <element signature="e#15#44#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/get_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#13#34#0" expanded="true" />
+            <marker date="1524805058238" expanded="true" signature="13938:14014" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/get_ip.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2034">
+          <caret line="120" column="37" lean-forward="false" selection-start-line="120" selection-start-column="37" selection-end-line="120" selection-end-column="37" />
+          <folding>
+            <element signature="e#15#44#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/get_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#13#34#0" expanded="true" />
+            <marker date="1524805058238" expanded="true" signature="13938:14014" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/get_ip.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2034">
+          <caret line="120" column="37" lean-forward="false" selection-start-line="120" selection-start-column="37" selection-end-line="120" selection-end-column="37" />
+          <folding>
+            <element signature="e#15#44#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/get_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#13#34#0" expanded="true" />
+            <marker date="1524805058238" expanded="true" signature="13938:14014" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/get_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#13#34#0" expanded="true" />
+            <marker date="1524805058238" expanded="true" signature="13938:14014" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/get_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#13#34#0" expanded="true" />
+            <marker date="1524805058238" expanded="true" signature="13938:14014" ph="..." />
           </folding>
         </state>
       </provider>
@@ -398,6 +729,7 @@
           <caret line="32" column="66" lean-forward="false" selection-start-line="32" selection-start-column="66" selection-end-line="32" selection-end-column="66" />
           <folding>
             <element signature="e#13#34#0" expanded="true" />
+            <marker date="1524805058238" expanded="true" signature="13938:14014" ph="..." />
           </folding>
         </state>
       </provider>
@@ -415,6 +747,7 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#13#34#0" expanded="true" />
+            <marker date="1524805058238" expanded="true" signature="13938:14014" ph="..." />
           </folding>
         </state>
       </provider>
@@ -425,6 +758,7 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#13#34#0" expanded="true" />
+            <marker date="1524805058238" expanded="true" signature="13938:14014" ph="..." />
           </folding>
         </state>
       </provider>
@@ -435,6 +769,7 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#13#34#0" expanded="true" />
+            <marker date="1524805058238" expanded="true" signature="13938:14014" ph="..." />
           </folding>
         </state>
       </provider>
@@ -453,12 +788,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file:///usr/local/lib/python3.5/dist-packages/selenium/webdriver/remote/webdriver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="972" column="36" lean-forward="true" selection-start-line="972" selection-start-column="24" selection-end-line="972" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/get_data.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="301">
-          <caret line="278" column="20" lean-forward="true" selection-start-line="278" selection-start-column="20" selection-end-line="278" selection-end-column="20" />
+        <state relative-caret-position="-3984">
+          <caret line="72" column="30" lean-forward="false" selection-start-line="72" selection-start-column="30" selection-end-line="72" selection-end-column="30" />
           <folding>
             <element signature="e#13#34#0" expanded="true" />
+            <marker date="1524805058238" expanded="true" signature="13938:14014" ph="..." />
           </folding>
         </state>
       </provider>
@@ -470,6 +813,14 @@
           <folding>
             <element signature="e#15#44#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/get_useful_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="36" lean-forward="false" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
+          <folding />
         </state>
       </provider>
     </entry>

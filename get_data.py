@@ -13,6 +13,10 @@ import cv2
 from matplotlib import pyplot as plt
 from PIL import Image, ImageEnhance
 import pytesseract
+from selenium.webdriver.common.keys import Keys
+import sys
+import numpy as np
+import gc
 
 test_source = 'http://s.manmanbuy.com/Default.aspx?key=%BF%DA%BA%EC&btnSearch=%CB%D1%CB%F7'
 user_agent = [
@@ -57,8 +61,6 @@ headers = {'User-Agent': 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:59.0) Gecko
            'Accept- Language': 'en - US, en;q = 0.5'
 }
 
-# get_ip_list('http://www.xicidaili.com/wn/', headers)
-
 file_ip_https = open('ip_http.txt', 'r')
 ip_list = file_ip_https.read().split('\n')
 ip_list.pop()
@@ -67,6 +69,51 @@ def random_ip():
     ip = random.choice(ip_list)
     ip = ip.split(':')
     return ip
+
+def recognize_Captcha(driver):
+    try:
+        driver.switch_to.frame(driver.find_element_by_id('iframeId'))
+        driver.switch_to.frame(driver.find_element_by_id('iframemain'))
+        time.sleep(1)
+        input_yanzheng = driver.find_element_by_id('txtyz')
+        print('find Captcha')
+        while (1):
+            img_src = driver.find_element_by_id('ImageButton3').screenshot_as_png
+            # img_gray = img_src.convert('L')
+            # img_sharp = ImageEnhance.Contrast(img_gray).enhance(2.0)
+            img_sharp = img_src
+
+            # save Captcha
+            file_img = open('yanzhengma.png', 'bw+')
+            file_img.write(img_src)
+            file_img.close()
+
+            img = cv2.imread('yanzhengma.png')
+            # get rid of frame
+            img = img[1:20, 1:56]
+
+            # get rid of noise
+            img_gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
+            img_gray = cv2.medianBlur(img_gray, 3)
+            ret, img_binary = cv2.threshold(img_gray, 150, 255, cv2.THRESH_BINARY)
+            cv2.imwrite('img_code.bmp', img_binary)
+
+            # recognize
+            code = pytesseract.image_to_string(Image.open('img_code.bmp'), lang='eng')
+            code = code.replace(' ', '')
+            print(code)
+            input_yanzheng.send_keys(code)
+            time.sleep(2)
+            driver.find_element_by_name('yanzheng').send_keys(Keys.ENTER)
+            time.sleep(2)
+            try:
+                input_yanzheng = driver.find_element_by_id('txtyz')
+            except:
+                driver.switch_to.default_content()
+                break
+
+    except:
+        driver.switch_to.default_content()
 
 def get_data_one_page(source, options, page):
     key1 = 'a href="http://tool\.manmanbuy\.com/historyLowest\.aspx?.+" target'
@@ -90,68 +137,96 @@ def get_data_one_page(source, options, page):
         url.append(requests.get(i).url)
 
     cnt = 0
-    cnt_error = 0
     pattern_token = re.compile('token=.+')
 
-    for i in url:
-        while(1):
+    agent = random.choice(user_agent)
+    headers['User-Agent'] = random.choice(agent)
+    # ip = ['183.159.82.25', '18118']
+    ip = random_ip()
+    options.add_argument('user-agent="' + agent + '"')
+    options.add_argument('--proxy-server=http://' + ip[0] + ':' + ip[1])
+    driver = webdriver.Firefox(firefox_options=options)
+    driver.set_page_load_timeout(8)
+
+    i = -1
+    try_time = 3
+    while(i < len(url) - 1):
+        i += 1
+        this_url = url[i]
+        if i % 5 == 4:
+            driver.quit()
+            del driver
+            gc.collect()
+            start = time.time()
             agent = random.choice(user_agent)
             headers['User-Agent'] = random.choice(agent)
             # ip = ['183.159.82.25', '18118']
             ip = random_ip()
             options.add_argument('user-agent="' + agent + '"')
             options.add_argument('--proxy-server=http://' + ip[0] + ':' + ip[1])
-            driver = webdriver.Firefox(firefox_options=options, )
-            driver.get(i)
-            proxy = {'https': 'https://' + ip[0] + ':' + ip[1]}
-            ret = driver.find_element_by_id('iframeId').get_attribute('src')
-            token = re.findall(pattern_token, ret)
-            json_url = i.replace('http://tool.manmanbuy.com/historyLowest.aspx?', '')
-            json_url = json_url.replace('item.tmall', 'detail.tmall')
-            json_url = 'http://tool.manmanbuy.com/history.aspx?DA=1&action=gethistory&' + \
-                       json_url + '&bjid=&spbh=&cxid=&zkid=&w=951&' + token[0]
-            data = requests.get(json_url, proxies=proxy, headers=headers)
-            print(cnt, data.text)
-            try:
-                data = json.loads(data.text)
-            except:
-                # 验证码
-                driver.switch_to.frame(driver.find_element_by_id('iframeId'))
-                driver.switch_to.frame(driver.find_element_by_id('iframemain'))
-                time.sleep(1)
-                input = driver.find_element_by_id('txtyz')
-                img_src = driver.find_element_by_id('ImageButton3').screenshot_as_png
-                file_img = open('yanzhengma.png')
-                file_img.write(img_src)
-                file_img.close()
-                img = Image.open('yanzhengma.png').convert('L')
-                img_sharp = ImageEnhance.Contrast(img).enhance(2.0)
-                img_sharp.save('image_code.jpg')
-                code = pytesseract.image_to_string(img_sharp)
-                input.send_keys(code)
-                button = driver.find_element_by_name('yanzheng')
-                button.click()
-                time.sleep(1)
-                continue
-            break
+            driver = webdriver.Firefox(firefox_options=options)
+            driver.set_page_load_timeout(8)
+            end = time.time()
+            print('time1:', end - start)
+        try:
+            driver.get(this_url)
+        except:
+            if try_time:
+                i -= 1
+                try_time -= 1
+            continue
+        # check if Captcha appears
+        start = time.time()
+        recognize_Captcha(driver)
+        end = time.time()
+        print('time2', end - start)
 
+        start = time.time()
+        # get token
+        proxy = {'https': 'https://' + ip[0] + ':' + ip[1]}
+        ret = driver.find_element_by_id('iframeId').get_attribute('src')
+        token = re.findall(pattern_token, ret)
+        json_url = this_url.replace('http://tool.manmanbuy.com/historyLowest.aspx?', '')
+        json_url = json_url.replace('item.tmall', 'detail.tmall')
+        json_url = 'http://tool.manmanbuy.com/history.aspx?DA=1&action=gethistory&' + \
+                   json_url + '&bjid=&spbh=&cxid=&zkid=&w=951&' + token[0]
 
-
-
-        if not ('spUrl' in data) or data['spUrl'] == 'https://detail.tmall.com/item.htm?id=544471454551':
-
-            json_url = json_url.replace('detail.tmall', 'item.tmall')
+        try:
             data = requests.get(json_url, proxies=proxy, headers=headers)
             data = json.loads(data.text)
+        except:
+            if try_time:
+                i -= 1
+                try_time -= 1
+            continue
+        end = time.time()
+        print('time3', end - start)
+
+        start = time.time()
+        if not ('spUrl' in data) or data['spUrl'] == 'https://detail.tmall.com/item.htm?id=544471454551':
+            json_url = json_url.replace('detail.tmall', 'item.tmall')
+            try:
+                data = requests.get(json_url, proxies=proxy, headers=headers)
+                data = json.loads(data.text)
+            except:
+                if try_time:
+                    i -= 1
+                    try_time -= 1
+                continue
 
         if 'spName' in data:
             print(data['spName'])
+
         if not ('spUrl' in data) or data['spUrl'] == 'https://detail.tmall.com/item.htm?id=544471454551':
-            file = open('data/error_data_' + str(page) + '_' + str(cnt), 'w')
-            file.write(json_url+'\n')
-            file.write(data['datePrice']+'\n')
-            file.close()
-            cnt_error += 1
+            if try_time:
+                i -= 1
+                try_time -= 1
+            else:
+                file = open('data/error_data_' + str(page) + '_' + str(cnt), 'w')
+                file.write(json_url+'\n')
+                file.write(data['datePrice']+'\n')
+                file.close()
+            continue
         else:
             file = open('data/data_' + str(page) + '_' + str(cnt), 'w')
             if 'spName' in data:
@@ -159,18 +234,18 @@ def get_data_one_page(source, options, page):
             file.write(data['datePrice']+'\n')
             file.close()
         cnt += 1
+        try_time = 3
+        end = time.time()
+        print('time4', end - start)
 
-        if cnt_error >= 5:
-            break
-        driver.quit()
-    return cnt_error
+    driver.quit()
+    del driver
+    gc.collect()
 
 def get_data():
     print('firefox start')
     options = webdriver.FirefoxOptions()
     options.set_headless()
-    # driver = webdriver.Firefox(firefox_options=options)
-
     source = 'http://s.manmanbuy.com/Default.aspx?key=%BF%DA%BA%EC&btnSearch=%CB%D1%CB%F7'
     while(1):
         ip = random_ip()
@@ -187,11 +262,24 @@ def get_data():
 
     print('pass')
 
-    log = open('log', 'r')
-    current_page = log.read()
+    file_page = open('file_page', 'r')
+    current_page = file_page.read()
     if current_page != '':
         current_page = int(current_page)
         while(1):
+            while (1):
+                ip = random_ip()
+                print(ip)
+
+                options.add_argument('--proxy-server=http://' + ip[0] + ':' + ip[1])
+                driver = webdriver.Firefox(firefox_options=options)
+                try:
+                    driver.get(source)
+                except:
+                    time.sleep(2)
+                    continue
+                break
+
             try:
                 pagenum = driver.find_element_by_id('pagenum')
             except:
@@ -206,21 +294,20 @@ def get_data():
         source = driver.current_url
     else:
         current_page = 0
-    log.close()
+    file_page.close()
 
-    cnt_error = get_data_one_page(source, options, current_page)
+    get_data_one_page(source, options, current_page)
     while(current_page <= 1200):
-        if cnt_error >= 4:
-            time.sleep(300)
-            current_page -= 1
-        else:
-            log = open('log', 'w+')
-            log.write(str(current_page))
-            print(str(current_page))
-            log.close()
         current_page += 1
+        file_page = open('file_page', 'w+')
+        file_page.write(str(current_page))
+        print(str(current_page))
+        file_page.close()
 
         while (1):
+            driver.quit()
+            del driver
+            gc.collect()
             ip = random_ip()
             options.add_argument('--proxy-server=http://' + ip[0] + ':' + ip[1])
             driver = webdriver.Firefox(firefox_options=options)
@@ -240,49 +327,11 @@ def get_data():
     driver.close()
 
 
+#
+if __name__ == '__main__':
+    old = sys.stdout
+    sys.stdout = open('log', 'r+')
+    get_data()
 
-# if __name__ == '__main__':
-#     get_data()
-
-
-
-options = webdriver.FirefoxOptions()
-options.set_headless()
-driver = webdriver.Firefox(firefox_options=options)
-ip = random_ip()
-options.add_argument('--proxy-server=http://' + ip[0] + ':' + ip[1])
-driver = webdriver.Firefox(firefox_options=options)
-i = 'http://tool.manmanbuy.com/historyLowest.aspx?url=http%3a%2f%2fitem.tmall.com%2fitem.htm%3fid%3d524116621469'
-pattern_token = re.compile('token=.+')
-while(1):
-    driver.get('http://tool.manmanbuy.com/historyLowest.aspx?url=http%3a%2f%2fitem.tmall.com%2fitem.htm%3fid%3d524116621469')
-    url = urllib.request.urlopen(i)
-
-    print(url.read())
-    proxy = {'https': 'https://' + ip[0] + ':' + ip[1]}
-    ret = driver.find_element_by_id('iframeId').get_attribute('src')
-    token = re.findall(pattern_token, ret)
-    json_url = i.replace('http://tool.manmanbuy.com/historyLowest.aspx?', '')
-    json_url = json_url.replace('item.tmall', 'detail.tmall')
-    json_url = 'http://tool.manmanbuy.com/history.aspx?DA=1&action=gethistory&' + \
-               json_url + '&bjid=&spbh=&cxid=&zkid=&w=951&' + token[0]
-    data = requests.get(json_url, proxies=proxy, headers=headers)
-    print(data.text)
-
-    driver.switch_to.frame(driver.find_element_by_id('iframeId'))
-    driver.switch_to.frame(driver.find_element_by_id('iframemain'))
-    time.sleep(1)
-    input = driver.find_element_by_id('txtyz')
-    img_src = driver.find_element_by_id('ImageButton3').screenshot_as_png
-    file_img = open('yanzhengma.png')
-    file_img.write(img_src)
-    file_img.close()
-    img = Image.open('yanzhengma.png').convert('L')
-    img_sharp = ImageEnhance.Contrast(img).enhance(2.0)
-    img_sharp.save('image_code.jpg')
-    code = pytesseract.image_to_string(img_sharp)
-    input.send_keys(code)
-    button = driver.find_element_by_name('yanzheng')
-    button.click()
 
 
